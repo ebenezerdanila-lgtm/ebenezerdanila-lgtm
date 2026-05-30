@@ -1,16 +1,248 @@
-## Hi there 👋
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HEADER BANNER                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--
-**ebenezerdanila-lgtm/ebenezerdanila-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,25:0A2540,50:0E3460,75:0A7EA4,100:00C2CB&height=280&section=header&text=Ebenezer%20C.%20Danila&fontSize=52&fontColor=E8F4FD&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Analytics%20Engineer&descSize=18&descAlignY=60&descColor=7DD3FC)](https://github.com/ebenezerdanila-lgtm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C2CB&center=true&vCenter=true&width=680&height=45&lines=Turning+raw+data+into+meaningful+decisions.;Building+systems+that+serve+real+communities.;3rd-Year+BSIS+%7C+Business+Analytics+%7C+WVSU-CICT)](https://github.com/ebenezerdanila-lgtm)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌊 `01` · About Me
+
+<table>
+<tr>
+<td width="60%">
+
+Hi, I'm **Benz** — a third-year **BS Information Systems** student majoring in **Business Analytics** at **West Visayas State University – CICT**, Iloilo City, Philippines.
+
+I sit at the intersection of **data, systems, and decision-making** — where raw numbers become strategic clarity. I'm drawn to problems that have real-world weight: community resilience, data integrity, and systems that actually serve people.
+
+Currently co-developing **LGU-SDSS**, a geospatial decision support system for local government planners — my most meaningful work to date.
+
+- 🎓 3rd Year · BSIS (Business Analytics Major) · WVSU-CICT
+- 🗺️ Based in **Iloilo City, Philippines**
+- 🧠 Analytical by instinct, detail-driven by habit
+- 🎮 Honkai Star Rail · 🎵 City Pop & Jazz · 🐟 Aquarium Keeper
+
+</td>
+<td width="40%" align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2800&pause=700&color=7DD3FC&center=true&vCenter=true&width=320&height=200&lines=Data+Cleaning+%E2%9C%93;Exploratory+Data+Analysis+%E2%9C%93;Regression+%26+Correlation+%E2%9C%93;Linear+Programming+%E2%9C%93;Geospatial+Systems+%E2%9C%93;Building+%7C+Learning+%7C+Growing)](https://github.com/ebenezerdanila-lgtm)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CAREER MISSION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🎯 `02` · Mission
+
+> *"Data without context is just noise. My goal is to build the bridge between raw information and the decisions that move communities forward."*
+
+I am driven to build a career as a **Data Analyst** or **Business Analytics Professional** — someone who doesn't just report what the data says, but frames *why it matters* and *what to do next*.
+
+My long-term aim is to work at the intersection of **public sector data systems**, **business intelligence**, and **geospatial analytics** — creating tools and insights that are accessible, accurate, and actionable.
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ `03` · Tech Stack & Tools
+
+### ⚙️ Languages & Web
+
+![Python](https://img.shields.io/badge/Python-0D1B2A?style=for-the-badge&logo=python&logoColor=00C2CB)
+![R](https://img.shields.io/badge/R-0D1B2A?style=for-the-badge&logo=r&logoColor=7DD3FC)
+![SQL](https://img.shields.io/badge/SQL-0D1B2A?style=for-the-badge&logo=postgresql&logoColor=00C2CB)
+![HTML5](https://img.shields.io/badge/HTML5-0D1B2A?style=for-the-badge&logo=html5&logoColor=7DD3FC)
+![CSS3](https://img.shields.io/badge/CSS3-0D1B2A?style=for-the-badge&logo=css3&logoColor=00C2CB)
+
+### 🧰 Tools & Platforms
+
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1B2A?style=for-the-badge&logo=jupyter&logoColor=00C2CB)
+![Anaconda](https://img.shields.io/badge/Anaconda-0D1B2A?style=for-the-badge&logo=anaconda&logoColor=7DD3FC)
+![MySQL](https://img.shields.io/badge/MySQL-0D1B2A?style=for-the-badge&logo=mysql&logoColor=00C2CB)
+![Git](https://img.shields.io/badge/Git-0D1B2A?style=for-the-badge&logo=git&logoColor=7DD3FC)
+![GitHub](https://img.shields.io/badge/GitHub-0D1B2A?style=for-the-badge&logo=github&logoColor=00C2CB)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1B2A?style=for-the-badge&logo=visual-studio-code&logoColor=7DD3FC)
+![Figma](https://img.shields.io/badge/Figma-0D1B2A?style=for-the-badge&logo=figma&logoColor=00C2CB)
+![Canva](https://img.shields.io/badge/Canva-0D1B2A?style=for-the-badge&logo=canva&logoColor=7DD3FC)
+
+### 📊 Analytics & Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-0D1B2A?style=for-the-badge&logo=pandas&logoColor=00C2CB)
+![NumPy](https://img.shields.io/badge/NumPy-0D1B2A?style=for-the-badge&logo=numpy&logoColor=7DD3FC)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D1B2A?style=for-the-badge&logo=scikit-learn&logoColor=00C2CB)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1B2A?style=for-the-badge&logo=python&logoColor=7DD3FC)
+![Seaborn](https://img.shields.io/badge/Seaborn-0D1B2A?style=for-the-badge&logo=python&logoColor=00C2CB)
+![SciPy](https://img.shields.io/badge/SciPy-0D1B2A?style=for-the-badge&logo=scipy&logoColor=7DD3FC)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-0D1B2A?style=for-the-badge&logo=microsoft-excel&logoColor=00C2CB)
+
+### 🌱 Currently Learning
+
+![Plotly](https://img.shields.io/badge/Plotly-0D1B2A?style=for-the-badge&logo=plotly&logoColor=00C2CB)
+![Power BI](https://img.shields.io/badge/Power_BI-0D1B2A?style=for-the-badge&logo=powerbi&logoColor=7DD3FC)
+![Tableau](https://img.shields.io/badge/Tableau-0D1B2A?style=for-the-badge&logo=tableau&logoColor=00C2CB)
+![React](https://img.shields.io/badge/React.js-0D1B2A?style=for-the-badge&logo=react&logoColor=7DD3FC)
+![Flask](https://img.shields.io/badge/Flask-0D1B2A?style=for-the-badge&logo=flask&logoColor=00C2CB)
+![PostGIS](https://img.shields.io/badge/PostGIS-0D1B2A?style=for-the-badge&logo=postgresql&logoColor=7DD3FC)
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      FEATURED PROJECTS                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🗂️ `04` · Featured Projects
+
+### 🌐 1. LGU-SDSS — Spatial Decision Support Information System
+> *Undergraduate Thesis · Co-Developer · In Progress*
+
+A full-stack **geospatial decision support system** designed for Local Government Unit (LGU) planners. Integrates PSA-CBMS household-level data to visualize **family vulnerability**, detect **kinship networks** via consanguinity matching, and identify **poverty pockets** across barangays using interactive maps.
+
+| Layer | Technology |
+|---|---|
+| Frontend | React.js · Leaflet.js |
+| Backend | Python (Flask) · SQLAlchemy |
+| Database | PostgreSQL · PostGIS |
+| Analytics | NetworkX · MCDA Vulnerability Weighting |
+
+> 🏙️ Built to serve real planners. Grounded in the ARUP City Resilience Framework and HLURB guidelines.
+
+---
+
+### 📈 2. Credit Risk Scoring & Robust Regression Analysis
+> *Academic Project · Python · Jupyter Notebook*
+
+Applied **multiple and robust regression techniques** to model credit risk scores from financial datasets. Included full assumption checking (linearity, normality, homoscedasticity), residual diagnostics, and model evaluation using Scikit-learn and Pandas.
+
+**Key Skills Demonstrated:** Feature engineering · Model evaluation · Statistical assumption testing
+
+---
+
+### 🔗 3. Correlation Analysis — Radio Ads vs Sales / Review Hours vs Grades
+> *Academic Project · Python · SciPy · Seaborn*
+
+Performed rigorous **multi-correlation analysis** using Pearson, Spearman, and Kendall's Tau-b on paired real-world datasets. Included full normality and linearity checks, scatter plot visualization, and interpretation of statistical significance.
+
+**Key Skills Demonstrated:** Hypothesis testing · Distribution checking · Statistical storytelling
+
+---
+
+### 🧹 4. Data Cleaning Projects — Jutsu & Mission Datasets
+> *Academic Project · Python · Pandas*
+
+Identified and resolved complex data quality issues including **missing values**, **negative entries**, **invalid date ranges**, and **inconsistent payment statuses** across real customer datasets. Produced clean, analysis-ready outputs with complete audit trails.
+
+**Key Skills Demonstrated:** Data wrangling · Data integrity · Pandas pipelines
+
+---
+
+### 📊 5. Descriptive Analytics Series
+> *Academic Project · Python · Pandas · qdesc · researchpy*
+
+Conducted **exploratory data analysis** on sleep patterns, job satisfaction, and employee performance datasets. Included normality checks, grouped descriptive statistics, frequency distributions, and visual summaries — following an EDA-first philosophy.
+
+**Key Skills Demonstrated:** EDA · Grouped analysis · Statistical reporting
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 `05` · GitHub Activity
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebenezerdanila-lgtm&show_icons=true&theme=transparent&title_color=00C2CB&text_color=7DD3FC&icon_color=00C2CB&border_color=0A7EA4&bg_color=0D1B2A)](https://github.com/ebenezerdanila-lgtm)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebenezerdanila-lgtm&theme=transparent&background=0D1B2A&stroke=0A7EA4&ring=00C2CB&fire=7DD3FC&currStreakLabel=00C2CB&sideNums=D9FFFF&currStreakNum=FFFFFF&dates=7FDBFF&border=0A7EA4)](https://github.com/ebenezerdanila-lgtm)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerdanila-lgtm&layout=compact&theme=transparent&title_color=00C2CB&text_color=7DD3FC&border_color=0A7EA4&bg_color=0D1B2A)](https://github.com/ebenezerdanila-lgtm)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PROFESSIONAL STRENGTHS                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 💡 `06` · Professional Strengths
+
+| Strength | How I Apply It |
+|---|---|
+| 🧠 **Analytical Thinking** | Break down complex, multi-variable problems into structured, data-driven solutions |
+| 🔍 **Attention to Detail** | Precision in data cleaning, database design, and documentation — errors don't hide for long |
+| 🤝 **Team Collaboration** | Co-developed a full thesis system across multiple modules with a cross-functional group |
+| 🗣️ **Communication** | Translate statistical findings and system logic into plain-language insights for non-technical stakeholders |
+| ⚡ **Critical Thinking** | Applied in selecting appropriate statistical methods, system architecture decisions, and resolving edge cases |
+| 🌱 **Continuous Learning** | Consistently expanding skills in Python, analytics pipelines, and full-stack system development |
+| 🧩 **Problem Solving** | Designed solutions for real-world LGU planning gaps — data problems with human stakes |
+| 🚀 **Leadership & Initiative** | Took ownership of system components, contributed proactively, and drove deliverables across the group |
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         BEYOND CODE                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌙 `07` · Beyond the Code
+
+I believe the best analysts are curious people first. Outside of data and systems, I recharge through:
+
+🎵 **Music** — City Pop, Jazz, OPM · My reset button after long debugging sessions  
+🎬 **Films & Series** — Storytelling that sharpens how I frame and communicate insights  
+📚 **Reading & Research** — Staying on the edge of what's new in tech and data  
+🤝 **Community** — Collaboration, growth, and paying it forward  
+🎮 **Honkai Star Rail** — Strategy, world-building, and beautiful design  
+🐟 **Aquarium Keeping** — Patience, system thinking, and the joy of building something that lives
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CONNECT                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌐 `08` · Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ebenezerdanila--lgtm-0D1B2A?style=for-the-badge&logo=github&logoColor=00C2CB&labelColor=0A2540)](https://github.com/ebenezerdanila-lgtm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ebenezer%20Danila-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=7DD3FC&labelColor=0A2540)](https://www.linkedin.com/in/ebenezer-danila/)
+[![Email](https://img.shields.io/badge/Email%20(WVSU)-ebenezer.danila%40wvsu.edu.ph-0D1B2A?style=for-the-badge&logo=gmail&logoColor=00C2CB&labelColor=0A2540)](mailto:ebenezer.danila@wvsu.edu.ph)
+[![Email](https://img.shields.io/badge/Email%20(Personal)-danila.ebenezer%40gmail.com-0D1B2A?style=for-the-badge&logo=gmail&logoColor=7DD3FC&labelColor=0A2540)](mailto:danila.ebenezer@gmail.com)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CLOSING STATEMENT                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&height=45&lines=Still+learning.+%E2%80%A2+Still+building.+%E2%80%A2+Still+becoming.;Every+dataset+is+a+story+waiting+to+be+told.;Open+to+opportunities%2C+collaborations%2C+and+conversations.)](https://github.com/ebenezerdanila-lgtm)
+
+> *The most powerful tool in analytics isn't a model or a framework — it's the discipline to ask better questions.*
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,25:0A7EA4,50:0E3460,75:0A2540,100:0D1B2A&height=120&section=footer)](https://github.com/ebenezerdanila-lgtm)
+
+</div>
