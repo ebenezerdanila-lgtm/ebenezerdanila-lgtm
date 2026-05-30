@@ -189,6 +189,8 @@ My long-term aim is to work at the intersection of **public sector data systems*
     </td>
   </tr>
 </table>
+
+
 ## 🗂️ `04` · Featured Projects
 
 ### 🌐 1. LGU-SDSS — Spatial Decision Support Information System
