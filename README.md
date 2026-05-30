@@ -54,44 +54,141 @@ My long-term aim is to work at the intersection of **public sector data systems*
 
 ### ⚙️ Languages & Web
 
-![Python](https://img.shields.io/badge/Python-1A0000?style=for-the-badge&logo=python&logoColor=FF6B6B)
-![R](https://img.shields.io/badge/R-1A0000?style=for-the-badge&logo=r&logoColor=FFAAAA)
-![SQL](https://img.shields.io/badge/SQL-1A0000?style=for-the-badge&logo=postgresql&logoColor=FF6B6B)
-![HTML5](https://img.shields.io/badge/HTML5-1A0000?style=for-the-badge&logo=html5&logoColor=FFAAAA)
-![CSS3](https://img.shields.io/badge/CSS3-1A0000?style=for-the-badge&logo=css3&logoColor=FF6B6B)
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R"/>
+      <br><b>R</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
+      <br><b>HTML5</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
+      <br><b>CSS3</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="SQL"/>
+      <br><b>SQL</b>
+    </td>
+  </tr>
+</table>
 
 ### 🧰 Tools & Platforms
 
-![Jupyter](https://img.shields.io/badge/Jupyter-1A0000?style=for-the-badge&logo=jupyter&logoColor=FF6B6B)
-![Anaconda](https://img.shields.io/badge/Anaconda-1A0000?style=for-the-badge&logo=anaconda&logoColor=FFAAAA)
-![MySQL](https://img.shields.io/badge/MySQL-1A0000?style=for-the-badge&logo=mysql&logoColor=FF6B6B)
-![Git](https://img.shields.io/badge/Git-1A0000?style=for-the-badge&logo=git&logoColor=FFAAAA)
-![GitHub](https://img.shields.io/badge/GitHub-1A0000?style=for-the-badge&logo=github&logoColor=FF6B6B)
-![VS Code](https://img.shields.io/badge/VS_Code-1A0000?style=for-the-badge&logo=visual-studio-code&logoColor=FFAAAA)
-![Figma](https://img.shields.io/badge/Figma-1A0000?style=for-the-badge&logo=figma&logoColor=FF6B6B)
-![Canva](https://img.shields.io/badge/Canva-1A0000?style=for-the-badge&logo=canva&logoColor=FFAAAA)
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda"/>
+      <br><b>Anaconda</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
+      <br><b>Jupyter</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL"/>
+      <br><b>MySQL</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+      <br><b>GitHub</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
+      <br><b>VS Code</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/>
+      <br><b>Figma</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva"/>
+      <br><b>Canva</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+      <br><b>PostgreSQL</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask"/>
+      <br><b>Flask</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+      <br><b>React.js</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="Excel"/>
+      <br><b>MS Office</b>
+    </td>
+  </tr>
+</table>
 
 ### 📊 Analytics & Data Science
 
-![Pandas](https://img.shields.io/badge/Pandas-1A0000?style=for-the-badge&logo=pandas&logoColor=FF6B6B)
-![NumPy](https://img.shields.io/badge/NumPy-1A0000?style=for-the-badge&logo=numpy&logoColor=FFAAAA)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1A0000?style=for-the-badge&logo=scikit-learn&logoColor=FF6B6B)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1A0000?style=for-the-badge&logo=python&logoColor=FFAAAA)
-![Seaborn](https://img.shields.io/badge/Seaborn-1A0000?style=for-the-badge&logo=python&logoColor=FF6B6B)
-![SciPy](https://img.shields.io/badge/SciPy-1A0000?style=for-the-badge&logo=scipy&logoColor=FFAAAA)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-1A0000?style=for-the-badge&logo=microsoft-excel&logoColor=FF6B6B)
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+      <br><b>Pandas</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+      <br><b>NumPy</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/>
+      <br><b>Scikit-learn</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
+      <br><b>Matplotlib</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48" alt="Plotly"/>
+      <br><b>Plotly</b>
+    </td>
+  </tr>
+</table>
 
 ### 🌱 Currently Learning
 
-![Plotly](https://img.shields.io/badge/Plotly-1A0000?style=for-the-badge&logo=plotly&logoColor=FF6B6B)
-![Power BI](https://img.shields.io/badge/Power_BI-1A0000?style=for-the-badge&logo=powerbi&logoColor=FFAAAA)
-![Tableau](https://img.shields.io/badge/Tableau-1A0000?style=for-the-badge&logo=tableau&logoColor=FF6B6B)
-![React](https://img.shields.io/badge/React.js-1A0000?style=for-the-badge&logo=react&logoColor=FFAAAA)
-![Flask](https://img.shields.io/badge/Flask-1A0000?style=for-the-badge&logo=flask&logoColor=FF6B6B)
-![PostGIS](https://img.shields.io/badge/PostGIS-1A0000?style=for-the-badge&logo=postgresql&logoColor=FFAAAA)
-
----
-
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48" alt="Plotly"/>
+      <br><b>Plotly</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+      <br><b>React.js</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask"/>
+      <br><b>Flask</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostGIS"/>
+      <br><b>PostGIS</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI"/>
+      <br><b>Power BI</b>
+    </td>
+  </tr>
+</table>
 ## 🗂️ `04` · Featured Projects
 
 ### 🌐 1. LGU-SDSS — Spatial Decision Support Information System
