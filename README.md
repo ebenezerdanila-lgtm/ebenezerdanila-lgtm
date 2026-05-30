@@ -190,7 +190,7 @@ Rigorous **multi-method correlation analysis** using Pearson, Spearman, and Kend
 
 ---
 
-### 🧹 Data Cleaning Projects — Jutsu & Mission Datasets
+### 🧹 Data Cleaning Projects 
 ![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Pandas-C0392B?style=flat-square)
 
 Resolved complex data quality issues — **missing values**, **negative entries**, **invalid date ranges**, **inconsistent payment statuses** — producing clean, audit-ready outputs.
@@ -225,7 +225,6 @@ EDA across sleep patterns, job satisfaction, and employee performance datasets. 
 
 ### 🐍 Contribution Snake
 
-> **Setup required:** Go to your repo → Actions → New Workflow → paste the YAML below → commit → wait ~2 mins → snake appears here automatically every day.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebenezerdanila-lgtm/ebenezerdanila-lgtm/output/github-snake-dark.svg"/>
