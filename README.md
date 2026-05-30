@@ -1,12 +1,8 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0D0000,40:4A0000,70:8B0000,100:C0392B&height=260&section=header&text=Ebenezer%20C.%20Danila&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Data%20Analyst%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Analytics%20Engineer&descSize=17&descAlignY=68&descColor=FFCCCC)](https://github.com/ebenezerdanila-lgtm)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0000,30:3D0000,60:8B0000,100:C0392B&height=300&section=header&text=Ebenezer%20C.%20Danila&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Analytics%20Engineer&descSize=18&descAlignY=62&descColor=FFCCCC)](https://github.com/ebenezerdanila-lgtm)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=FF4444&center=true&vCenter=true&width=600&height=38&lines=3rd-Year+BSIS+%7C+Business+Analytics+%7C+WVSU-CICT;Turning+raw+data+into+real+decisions.;Building+systems+that+serve+real+people." alt="Typing SVG"/>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=ebenezerdanila-lgtm&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=FF4444&center=true&vCenter=true&width=650&height=42&lines=3rd-Year+BSIS+%7C+Business+Analytics+%7C+WVSU-CICT;Turning+raw+data+into+real+decisions.;Building+systems+that+serve+real+people.;Still+learning.+Still+building.+Still+becoming." alt="Typing SVG"/>
 
 </div>
 
@@ -16,29 +12,8 @@
 
 ## 🧭 `01` · Who I Am
 
-<table>
-<tr>
-<td valign="top" width="58%">
-
-Hi, I'm **Benz** — a third-year **BS Information Systems** student majoring in **Business Analytics** at **West Visayas State University – CICT**, Iloilo City, Philippines.
-
-I work at the intersection of **data, systems, and human decisions** — where numbers stop being abstract and start being useful. I care about building things that matter: systems for real communities, analyses grounded in rigor, and insights that actually move people to act.
-
-Currently co-developing **LGU-SDSS** — a geospatial decision support system for LGU planners, built on real PSA-CBMS household data. It's the most meaningful thing I've built so far.
-
-- 🎓 3rd Year · BSIS (Business Analytics Major) · WVSU-CICT
-- 🗺️ Based in **Iloilo City, Philippines**
-- 🧠 Analytical by instinct, detail-driven by habit
-- 🎮 Honkai Star Rail · 🎵 City Pop & Jazz · 🐟 Aquarium Keeper
-
-</td>
-<td valign="top" width="42%" align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=2600&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=280&height=220&lines=▸+Data+Cleaning+%E2%9C%94;▸+Exploratory+Data+Analysis+%E2%9C%94;▸+Regression+%26+Correlation+%E2%9C%94;▸+Linear+Programming+%E2%9C%94;▸+Geospatial+Systems+%E2%9C%94;▸+Machine+Learning+Basics+%E2%9C%94;▸+Building+%7C+Learning+%7C+Growing" alt="skills"/>
-
-</td>
-</tr>
-</table>
+| <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/> | <div><br>Hi, I'm **Benz** — a third-year **BS Information Systems** student majoring in **Business Analytics** at **West Visayas State University – CICT**, Iloilo City, Philippines.<br><br>I work at the intersection of **data, systems, and human decisions** — where numbers stop being abstract and start being useful. I care about building things that matter: systems for real communities, analyses grounded in rigor, and insights that move people to act.<br><br>Currently co-developing **LGU-SDSS** — a geospatial decision support system for LGU planners, built on real PSA-CBMS household data. The most meaningful project I've built so far.<br><br>📍 Iloilo City, Philippines &nbsp;·&nbsp; 🎮 Honkai Star Rail &nbsp;·&nbsp; 🎵 City Pop & Jazz &nbsp;·&nbsp; 🐟 Fish keeper</div> |
+|---|---|
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
 
@@ -48,9 +23,7 @@ Currently co-developing **LGU-SDSS** — a geospatial decision support system fo
 
 <div align="center">
 
-> ### *"Data without context is just noise.*
-> ### *My goal is to build the bridge between raw information*
-> ### *and the decisions that move communities forward."*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1200&color=FF4444&center=true&vCenter=true&width=780&height=60&lines=Data+without+context+is+just+noise.;I+build+the+bridge+between+raw+information...;...and+the+decisions+that+move+communities+forward." alt="Mission Typing"/>
 
 </div>
 
@@ -72,20 +45,20 @@ Long-term, I want to work at the intersection of **public sector analytics**, **
 
 <table>
   <tr>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="46" height="46"/><br><sub><b>Python</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/><br><sub><b>Python</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="46" height="46"/><br><sub><b>R</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50"/><br><sub><b>R</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="46" height="46"/><br><sub><b>HTML5</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><br><sub><b>HTML5</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="46" height="46"/><br><sub><b>CSS3</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><br><sub><b>CSS3</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="46" height="46"/><br><sub><b>SQL</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/><br><sub><b>SQL</b></sub>
     </td>
   </tr>
 </table>
@@ -96,43 +69,43 @@ Long-term, I want to work at the intersection of **public sector analytics**, **
 
 <table>
   <tr>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="46" height="46"/><br><sub><b>Jupyter</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/><br><sub><b>Jupyter</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="46" height="46"/><br><sub><b>Anaconda</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50" height="50"/><br><sub><b>Anaconda</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="46" height="46"/><br><sub><b>MySQL</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/><br><sub><b>MySQL</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46" height="46"/><br><sub><b>Git</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/><br><sub><b>Git</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="46" height="46"/><br><sub><b>GitHub</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/><br><sub><b>GitHub</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="46" height="46"/><br><sub><b>VS Code</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/><br><sub><b>VS Code</b></sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="46" height="46"/><br><sub><b>Figma</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/><br><sub><b>Figma</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="46" height="46"/><br><sub><b>Canva</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50"/><br><sub><b>Canva</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="46" height="46"/><br><sub><b>React.js</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/><br><sub><b>React.js</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="46" height="46"/><br><sub><b>Flask</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/><br><sub><b>Flask</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="46" height="46"/><br><sub><b>PostGIS</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/><br><sub><b>PostGIS</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="46" height="46"/><br><sub><b>SQLAlchemy</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="50" height="50"/><br><sub><b>SQLAlchemy</b></sub>
     </td>
   </tr>
 </table>
@@ -143,36 +116,34 @@ Long-term, I want to work at the intersection of **public sector analytics**, **
 
 <table>
   <tr>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="46" height="46"/><br><sub><b>Pandas</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/><br><sub><b>Pandas</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="46" height="46"/><br><sub><b>NumPy</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/><br><sub><b>NumPy</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="46" height="46"/><br><sub><b>Scikit-learn</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/><br><sub><b>Scikit-learn</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="46" height="46"/><br><sub><b>Matplotlib</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/><br><sub><b>Matplotlib</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="46" height="46"/><br><sub><b>Plotly</b></sub>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="50" height="50"/><br><sub><b>Plotly</b></sub>
     </td>
-    <td align="center" width="105">
-      <img src="https://img.icons8.com/color/48/power-bi.png" width="46" height="46"/><br><sub><b>Power BI</b></sub>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/power-bi.png" width="50" height="50"/><br><sub><b>Power BI</b></sub>
     </td>
   </tr>
 </table>
 
 </div>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
 
 ---
 
 ## 🗂️ `04` · Featured Projects
-
 
 ### 🌐 LGU-SDSS — Spatial Decision Support Information System
 
@@ -228,7 +199,6 @@ EDA across sleep patterns, job satisfaction, and employee performance datasets. 
 
 `EDA` · `Grouped Analysis` · `Statistical Reporting`
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
 
 ---
@@ -245,7 +215,6 @@ EDA across sleep patterns, job satisfaction, and employee performance datasets. 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebenezerdanila-lgtm&theme=transparent&background=0D0000&stroke=8B0000&ring=C0392B&fire=FF4444&currStreakLabel=FF4444&sideNums=FFCCCC&currStreakNum=FFFFFF&dates=FFAAAA&border=8B0000" width="55%"/>
 
 </div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
 
@@ -288,7 +257,6 @@ Took ownership of system components, contributed proactively, and pushed deliver
 </tr>
 </table>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
 
 ---
@@ -306,7 +274,6 @@ I believe the best analysts are curious people first.
 | 🐟 **Aquarium Keeping** | Patience, system thinking, and the joy of building something that lives |
 | 🤝 **Community** | Collaboration, growth, and paying it forward |
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
 
 ---
@@ -317,7 +284,7 @@ I believe the best analysts are curious people first.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ebenezerdanila--lgtm-0D0000?style=for-the-badge&logo=github&logoColor=FF6B6B&labelColor=4A0000)](https://github.com/ebenezerdanila-lgtm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ebenezer%20Danila-0D0000?style=for-the-badge&logo=linkedin&logoColor=FFAAAA&labelColor=4A0000)](https://www.linkedin.com/in/ebenezer-danila/)
-[![WVSU Email](https://img.shields.io/badge/WVSU%20Mail-ebenezer.danila-0D0000?style=for-the-badge&logo=gmail&logoColor=FF6B6B&labelColor=4A0000)](mailto:ebenezer.danila@wvsu.edu.ph)
+[![WVSU Mail](https://img.shields.io/badge/WVSU%20Mail-ebenezer.danila-0D0000?style=for-the-badge&logo=gmail&logoColor=FF6B6B&labelColor=4A0000)](mailto:ebenezer.danila@wvsu.edu.ph)
 [![Gmail](https://img.shields.io/badge/Gmail-danila.ebenezer-0D0000?style=for-the-badge&logo=gmail&logoColor=FFAAAA&labelColor=4A0000)](mailto:danila.ebenezer@gmail.com)
 
 </div>
@@ -336,7 +303,5 @@ I believe the best analysts are curious people first.
 <br>
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C0392B,30:8B0000,70:4A0000,100:0D0000&height=130&section=footer)](https://github.com/ebenezerdanila-lgtm)
-
-</div>
 
 </div>
