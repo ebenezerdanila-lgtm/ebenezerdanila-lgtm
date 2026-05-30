@@ -1,28 +1,30 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HEADER BANNER                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,25:3D0000,50:6B0000,75:8B0000,100:B22222&height=280&section=header&text=Ebenezer%20C.%20Danila&fontSize=52&fontColor=F5E6E6&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Analytics%20Engineer&descSize=18&descAlignY=60&descColor=FFAAAA)](https://github.com/ebenezerdanila-lgtm)
+[![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0D0000,40:4A0000,70:8B0000,100:C0392B&height=260&section=header&text=Ebenezer%20C.%20Danila&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Data%20Analyst%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Analytics%20Engineer&descSize=17&descAlignY=68&descColor=FFCCCC)](https://github.com/ebenezerdanila-lgtm)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=680&height=45&lines=Turning+raw+data+into+meaningful+decisions.;Building+systems+that+serve+real+communities.;3rd-Year+BSIS+%7C+Business+Analytics+%7C+WVSU-CICT)](https://github.com/ebenezerdanila-lgtm)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=FF4444&center=true&vCenter=true&width=600&height=38&lines=3rd-Year+BSIS+%7C+Business+Analytics+%7C+WVSU-CICT;Turning+raw+data+into+real+decisions.;Building+systems+that+serve+real+people." alt="Typing SVG"/>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=ebenezerdanila-lgtm&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🌊 `01` · About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
+
+## 🧭 `01` · Who I Am
 
 <table>
 <tr>
-<td width="60%">
+<td valign="top" width="58%">
 
 Hi, I'm **Benz** — a third-year **BS Information Systems** student majoring in **Business Analytics** at **West Visayas State University – CICT**, Iloilo City, Philippines.
 
-I sit at the intersection of **data, systems, and decision-making** — where raw numbers become strategic clarity. I'm drawn to problems that have real-world weight: community resilience, data integrity, and systems that actually serve people.
+I work at the intersection of **data, systems, and human decisions** — where numbers stop being abstract and start being useful. I care about building things that matter: systems for real communities, analyses grounded in rigor, and insights that actually move people to act.
 
-Currently co-developing **LGU-SDSS**, a geospatial decision support system for local government planners — my most meaningful work to date.
+Currently co-developing **LGU-SDSS** — a geospatial decision support system for LGU planners, built on real PSA-CBMS household data. It's the most meaningful thing I've built so far.
 
 - 🎓 3rd Year · BSIS (Business Analytics Major) · WVSU-CICT
 - 🗺️ Based in **Iloilo City, Philippines**
@@ -30,218 +32,204 @@ Currently co-developing **LGU-SDSS**, a geospatial decision support system for l
 - 🎮 Honkai Star Rail · 🎵 City Pop & Jazz · 🐟 Aquarium Keeper
 
 </td>
-<td width="40%" align="center">
+<td valign="top" width="42%" align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2800&pause=700&color=FF6B6B&center=true&vCenter=true&width=320&height=200&lines=Data+Cleaning+%E2%9C%93;Exploratory+Data+Analysis+%E2%9C%93;Regression+%26+Correlation+%E2%9C%93;Linear+Programming+%E2%9C%93;Geospatial+Systems+%E2%9C%93;Building+%7C+Learning+%7C+Growing)](https://github.com/ebenezerdanila-lgtm)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=2600&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=280&height=220&lines=▸+Data+Cleaning+%E2%9C%94;▸+Exploratory+Data+Analysis+%E2%9C%94;▸+Regression+%26+Correlation+%E2%9C%94;▸+Linear+Programming+%E2%9C%94;▸+Geospatial+Systems+%E2%9C%94;▸+Machine+Learning+Basics+%E2%9C%94;▸+Building+%7C+Learning+%7C+Growing" alt="skills"/>
 
 </td>
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
+
 ---
 
 ## 🎯 `02` · Mission
 
-> *"Data without context is just noise. My goal is to build the bridge between raw information and the decisions that move communities forward."*
+<div align="center">
 
-I am driven to build a career as a **Data Analyst** or **Business Analytics Professional** — someone who doesn't just report what the data says, but frames *why it matters* and *what to do next*.
+> ### *"Data without context is just noise.*
+> ### *My goal is to build the bridge between raw information*
+> ### *and the decisions that move communities forward."*
 
-My long-term aim is to work at the intersection of **public sector data systems**, **business intelligence**, and **geospatial analytics** — creating tools and insights that are accessible, accurate, and actionable.
+</div>
+
+<br>
+
+I'm building toward a career as a **Data Analyst** or **Business Analytics Professional** — not just someone who runs queries, but someone who frames *why the numbers matter* and prescribes *what to do next*.
+
+Long-term, I want to work at the intersection of **public sector analytics**, **geospatial intelligence**, and **business decision systems** — creating tools that are accessible, rigorous, and built for real impact.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
 
 ---
 
-## 🛠️ `03` · Tech Stack & Tools
+## 🛠️ `03` · Tech Stack
 
-### ⚙️ Languages & Web
+<div align="center">
 
-<table align="center">
+### ` Languages & Web `
+
+<table>
   <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-      <br><b>Python</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="46" height="46"/><br><sub><b>Python</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R"/>
-      <br><b>R</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="46" height="46"/><br><sub><b>R</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
-      <br><b>HTML5</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="46" height="46"/><br><sub><b>HTML5</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
-      <br><b>CSS3</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="46" height="46"/><br><sub><b>CSS3</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="SQL"/>
-      <br><b>SQL</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="46" height="46"/><br><sub><b>SQL</b></sub>
     </td>
   </tr>
 </table>
 
-### 🧰 Tools & Platforms
+<br>
 
-<table align="center">
+### ` Tools & Platforms `
+
+<table>
   <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda"/>
-      <br><b>Anaconda</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="46" height="46"/><br><sub><b>Jupyter</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
-      <br><b>Jupyter</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="46" height="46"/><br><sub><b>Anaconda</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL"/>
-      <br><b>MySQL</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="46" height="46"/><br><sub><b>MySQL</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-      <br><b>Git</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46" height="46"/><br><sub><b>Git</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
-      <br><b>GitHub</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="46" height="46"/><br><sub><b>GitHub</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
-      <br><b>VS Code</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="46" height="46"/><br><sub><b>VS Code</b></sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/>
-      <br><b>Figma</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="46" height="46"/><br><sub><b>Figma</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva"/>
-      <br><b>Canva</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="46" height="46"/><br><sub><b>Canva</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
-      <br><b>PostgreSQL</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="46" height="46"/><br><sub><b>React.js</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask"/>
-      <br><b>Flask</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="46" height="46"/><br><sub><b>Flask</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-      <br><b>React.js</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="46" height="46"/><br><sub><b>PostGIS</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="Excel"/>
-      <br><b>MS Office</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="46" height="46"/><br><sub><b>SQLAlchemy</b></sub>
     </td>
   </tr>
 </table>
 
-### 📊 Analytics & Data Science
+<br>
 
-<table align="center">
+### ` Analytics & Data Science `
+
+<table>
   <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-      <br><b>Pandas</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="46" height="46"/><br><sub><b>Pandas</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-      <br><b>NumPy</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="46" height="46"/><br><sub><b>NumPy</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/>
-      <br><b>Scikit-learn</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="46" height="46"/><br><sub><b>Scikit-learn</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
-      <br><b>Matplotlib</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="46" height="46"/><br><sub><b>Matplotlib</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48" alt="Plotly"/>
-      <br><b>Plotly</b>
+    <td align="center" width="105">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="46" height="46"/><br><sub><b>Plotly</b></sub>
+    </td>
+    <td align="center" width="105">
+      <img src="https://img.icons8.com/color/48/power-bi.png" width="46" height="46"/><br><sub><b>Power BI</b></sub>
     </td>
   </tr>
 </table>
 
-### 🌱 Currently Learning
+</div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48" alt="Plotly"/>
-      <br><b>Plotly</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-      <br><b>React.js</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask"/>
-      <br><b>Flask</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostGIS"/>
-      <br><b>PostGIS</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI"/>
-      <br><b>Power BI</b>
-    </td>
-  </tr>
-</table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
+
+---
 
 ## 🗂️ `04` · Featured Projects
 
-### 🌐 1. LGU-SDSS — Spatial Decision Support Information System
-> *Undergraduate Thesis · Co-Developer · In Progress*
 
-A full-stack **geospatial decision support system** designed for Local Government Unit (LGU) planners. Integrates PSA-CBMS household-level data to visualize **family vulnerability**, detect **kinship networks** via consanguinity matching, and identify **poverty pockets** across barangays using interactive maps.
+### 🌐 LGU-SDSS — Spatial Decision Support Information System
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-8B0000?style=flat-square) ![Role](https://img.shields.io/badge/Role-Co--Developer-C0392B?style=flat-square) ![Type](https://img.shields.io/badge/Type-Undergraduate%20Thesis-4A0000?style=flat-square)
+
+A full-stack **geospatial decision support system** for Local Government Unit planners. Integrates PSA-CBMS household-level data to visualize **family vulnerability**, detect **kinship networks** via consanguinity matching, and map **poverty pockets** across barangays using interactive Leaflet maps.
 
 | Layer | Technology |
 |---|---|
-| Frontend | React.js · Leaflet.js |
-| Backend | Python (Flask) · SQLAlchemy |
-| Database | PostgreSQL · PostGIS |
-| Analytics | NetworkX · MCDA Vulnerability Weighting |
-
-> 🏙️ Built to serve real planners. Grounded in the ARUP City Resilience Framework and HLURB guidelines.
-
----
-
-### 📈 2. Credit Risk Scoring & Robust Regression Analysis
-> *Academic Project · Python · Jupyter Notebook*
-
-Applied **multiple and robust regression techniques** to model credit risk scores from financial datasets. Included full assumption checking (linearity, normality, homoscedasticity), residual diagnostics, and model evaluation using Scikit-learn and Pandas.
-
-**Key Skills Demonstrated:** Feature engineering · Model evaluation · Statistical assumption testing
+| 🖥️ Frontend | React.js · Leaflet.js |
+| ⚙️ Backend | Python Flask · SQLAlchemy |
+| 🗄️ Database | PostgreSQL · PostGIS |
+| 📊 Analytics | NetworkX · MCDA Vulnerability Weighting |
+| 📐 Framework | ARUP City Resilience · HLURB Guidelines |
 
 ---
 
-### 🔗 3. Correlation Analysis — Radio Ads vs Sales / Review Hours vs Grades
-> *Academic Project · Python · SciPy · Seaborn*
+### 📈 Credit Risk Scoring & Robust Regression Analysis
 
-Performed rigorous **multi-correlation analysis** using Pearson, Spearman, and Kendall's Tau-b on paired real-world datasets. Included full normality and linearity checks, scatter plot visualization, and interpretation of statistical significance.
+![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Scikit--learn-C0392B?style=flat-square)
 
-**Key Skills Demonstrated:** Hypothesis testing · Distribution checking · Statistical storytelling
+Applied **multiple and robust regression** to model credit risk scores from financial datasets. Full assumption checking — linearity, normality, homoscedasticity — with residual diagnostics and model evaluation.
 
----
-
-### 🧹 4. Data Cleaning Projects 
-> *Academic Project · Python · Pandas*
-
-Identified and resolved complex data quality issues including **missing values**, **negative entries**, **invalid date ranges**, and **inconsistent payment statuses** across real customer datasets. Produced clean, analysis-ready outputs with complete audit trails.
-
-**Key Skills Demonstrated:** Data wrangling · Data integrity · Pandas pipelines
+`Feature Engineering` · `Model Evaluation` · `Statistical Assumption Testing`
 
 ---
 
-### 📊 5. Descriptive Analytics Series
-> *Academic Project · Python · Pandas · qdesc · researchpy*
+### 🔗 Correlation Analysis — Radio Ads vs Sales / Review Hours vs Grades
 
-Conducted **exploratory data analysis** on sleep patterns, job satisfaction, and employee performance datasets. Included normality checks, grouped descriptive statistics, frequency distributions, and visual summaries.
+![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20SciPy%20·%20Seaborn-C0392B?style=flat-square)
 
-**Key Skills Demonstrated:** EDA · Grouped analysis · Statistical reporting
+Rigorous **multi-method correlation analysis** using Pearson, Spearman, and Kendall's Tau-b. Full normality and linearity checks, scatter visualizations, and significance interpretation on paired real-world datasets.
+
+`Hypothesis Testing` · `Distribution Checking` · `Statistical Storytelling`
+
+---
+
+### 🧹 Data Cleaning Projects — Jutsu & Mission Datasets
+
+![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Pandas-C0392B?style=flat-square)
+
+Identified and resolved complex data quality issues — **missing values**, **negative entries**, **invalid date ranges**, **inconsistent payment statuses** — producing clean, audit-ready outputs.
+
+`Data Wrangling` · `Data Integrity` · `Pandas Pipelines`
+
+---
+
+### 📊 Descriptive Analytics Series
+
+![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Pandas%20·%20researchpy-C0392B?style=flat-square)
+
+EDA across sleep patterns, job satisfaction, and employee performance datasets. Normality checks, grouped descriptives, frequency distributions — following a strict **EDA-first philosophy**.
+
+`EDA` · `Grouped Analysis` · `Statistical Reporting`
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
 
 ---
 
@@ -249,41 +237,77 @@ Conducted **exploratory data analysis** on sleep patterns, job satisfaction, and
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebenezerdanila-lgtm&show_icons=true&theme=transparent&title_color=FF6B6B&text_color=FFAAAA&icon_color=FF6B6B&border_color=6B0000&bg_color=1A0000)](https://github.com/ebenezerdanila-lgtm)
+<img src="https://github-readme-stats.vercel.app/api?username=ebenezerdanila-lgtm&show_icons=true&theme=transparent&title_color=FF4444&text_color=FFAAAA&icon_color=C0392B&border_color=8B0000&bg_color=0D0000&hide_border=false&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerdanila-lgtm&layout=compact&theme=transparent&title_color=FF4444&text_color=FFAAAA&border_color=8B0000&bg_color=0D0000" width="38%"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebenezerdanila-lgtm&theme=transparent&background=1A0000&stroke=6B0000&ring=FF6B6B&fire=FFAAAA&currStreakLabel=FF6B6B&sideNums=FFD0D0&currStreakNum=FFFFFF&dates=FFAAAA&border=6B0000)](https://github.com/ebenezerdanila-lgtm)
+<br><br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerdanila-lgtm&layout=compact&theme=transparent&title_color=FF6B6B&text_color=FFAAAA&border_color=6B0000&bg_color=1A0000)](https://github.com/ebenezerdanila-lgtm)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ebenezerdanila-lgtm&theme=transparent&background=0D0000&stroke=8B0000&ring=C0392B&fire=FF4444&currStreakLabel=FF4444&sideNums=FFCCCC&currStreakNum=FFFFFF&dates=FFAAAA&border=8B0000" width="55%"/>
 
 </div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
 
 ---
 
 ## 💡 `06` · Professional Strengths
 
-| Strength | How I Apply It |
-|---|---|
-| 🧠 **Analytical Thinking** | Break down complex, multi-variable problems into structured, data-driven solutions |
-| 🔍 **Attention to Detail** | Precision in data cleaning, database design, and documentation — errors don't hide for long |
-| 🤝 **Team Collaboration** | Co-developed a full thesis system across multiple modules with a cross-functional group |
-| 🗣️ **Communication** | Translate statistical findings and system logic into plain-language insights for non-technical stakeholders |
-| ⚡ **Critical Thinking** | Applied in selecting appropriate statistical methods, system architecture decisions, and resolving edge cases |
-| 🌱 **Continuous Learning** | Consistently expanding skills in Python, analytics pipelines, and full-stack system development |
-| 🧩 **Problem Solving** | Designed solutions for real-world LGU planning gaps — data problems with human stakes |
-| 🚀 **Leadership & Initiative** | Took ownership of system components, contributed proactively, and drove deliverables across the group |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Analytical Thinking**
+Breaks complex, multi-variable problems into structured, data-driven solutions — not just answers, but frameworks.
+
+**🔍 Attention to Detail**
+Precision in data cleaning, schema design, and documentation. Errors don't hide for long.
+
+**🗣️ Communication**
+Translates statistical outputs and system logic into plain-language insights for non-technical stakeholders.
+
+**⚡ Critical Thinking**
+Applied in selecting appropriate statistical methods, system architecture decisions, and resolving edge cases under ambiguity.
+
+</td>
+<td width="50%" valign="top">
+
+**🤝 Team Collaboration**
+Co-developed a full thesis system across multiple modules with a cross-functional group — coordinating design, data, and development.
+
+**🌱 Continuous Learning**
+Consistently expanding skills in Python, analytics pipelines, geospatial systems, and full-stack development.
+
+**🧩 Problem Solving**
+Designed solutions for real-world LGU planning gaps — data problems with genuine human stakes.
+
+**🚀 Leadership & Initiative**
+Took ownership of system components, contributed proactively, and pushed deliverables forward without waiting to be asked.
+
+</td>
+</tr>
+</table>
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
 
 ---
 
 ## 🌙 `07` · Beyond the Code
 
-I believe the best analysts are curious people first. Outside of data and systems, I recharge through:
+I believe the best analysts are curious people first.
 
-🎵 **Music** — City Pop, Jazz, OPM · My reset button after long debugging sessions  
-🎬 **Films & Series** — Storytelling that sharpens how I frame and communicate insights  
-📚 **Reading & Research** — Staying on the edge of what's new in tech and data  
-🤝 **Community** — Collaboration, growth, and paying it forward  
-🎮 **Honkai Star Rail** — Strategy, world-building, and beautiful design  
-🐟 **Aquarium Keeping** — Patience, system thinking, and the joy of building something that lives
+| | |
+|---|---|
+| 🎵 **Music** | City Pop, Jazz, OPM — my reset button after long debugging sessions |
+| 🎬 **Films & Series** | Storytelling that sharpens how I frame and communicate insights |
+| 📚 **Reading & Research** | Staying on the edge of what's new in tech, data, and systems |
+| 🎮 **Honkai Star Rail** | Strategy, world-building, and beautifully designed systems |
+| 🐟 **Aquarium Keeping** | Patience, system thinking, and the joy of building something that lives |
+| 🤝 **Community** | Collaboration, growth, and paying it forward |
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
 
 ---
 
@@ -291,10 +315,10 @@ I believe the best analysts are curious people first. Outside of data and system
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ebenezerdanila--lgtm-1A0000?style=for-the-badge&logo=github&logoColor=FF6B6B&labelColor=3D0000)](https://github.com/ebenezerdanila-lgtm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ebenezer%20Danila-1A0000?style=for-the-badge&logo=linkedin&logoColor=FFAAAA&labelColor=3D0000)](https://www.linkedin.com/in/ebenezer-danila/)
-[![Email](https://img.shields.io/badge/Email%20(WVSU)-ebenezer.danila%40wvsu.edu.ph-1A0000?style=for-the-badge&logo=gmail&logoColor=FF6B6B&labelColor=3D0000)](mailto:ebenezer.danila@wvsu.edu.ph)
-[![Email](https://img.shields.io/badge/Email%20(Personal)-danila.ebenezer%40gmail.com-1A0000?style=for-the-badge&logo=gmail&logoColor=FFAAAA&labelColor=3D0000)](mailto:danila.ebenezer@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ebenezerdanila--lgtm-0D0000?style=for-the-badge&logo=github&logoColor=FF6B6B&labelColor=4A0000)](https://github.com/ebenezerdanila-lgtm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ebenezer%20Danila-0D0000?style=for-the-badge&logo=linkedin&logoColor=FFAAAA&labelColor=4A0000)](https://www.linkedin.com/in/ebenezer-danila/)
+[![WVSU Email](https://img.shields.io/badge/WVSU%20Mail-ebenezer.danila-0D0000?style=for-the-badge&logo=gmail&logoColor=FF6B6B&labelColor=4A0000)](mailto:ebenezer.danila@wvsu.edu.ph)
+[![Gmail](https://img.shields.io/badge/Gmail-danila.ebenezer-0D0000?style=for-the-badge&logo=gmail&logoColor=FFAAAA&labelColor=4A0000)](mailto:danila.ebenezer@gmail.com)
 
 </div>
 
@@ -302,10 +326,17 @@ I believe the best analysts are curious people first. Outside of data and system
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&height=45&lines=Still+learning.+%E2%80%A2+Still+building.+%E2%80%A2+Still+becoming.;Every+dataset+is+a+story+waiting+to+be+told.;Open+to+opportunities%2C+collaborations%2C+and+conversations.)](https://github.com/ebenezerdanila-lgtm)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1000&color=FF4444&center=true&vCenter=true&width=700&height=40&lines=Still+learning.+%E2%80%A2+Still+building.+%E2%80%A2+Still+becoming.;Every+dataset+is+a+story+waiting+to+be+told.;Open+to+opportunities%2C+collaborations%2C+and+conversations." alt="Typing SVG"/>
 
-> *The most powerful tool in analytics isn't a model or a framework — it's the discipline to ask better questions.*
+<br>
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:B22222,25:8B0000,50:6B0000,75:3D0000,100:1A0000&height=120&section=footer)](https://github.com/ebenezerdanila-lgtm)
+> *The most powerful tool in analytics isn't a model or a framework —*
+> *it's the discipline to ask better questions.*
+
+<br>
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C0392B,30:8B0000,70:4A0000,100:0D0000&height=130&section=footer)](https://github.com/ebenezerdanila-lgtm)
+
+</div>
 
 </div>
