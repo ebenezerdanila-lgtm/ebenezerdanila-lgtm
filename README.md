@@ -1,21 +1,33 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0000,30:3D0000,60:8B0000,100:C0392B&height=300&section=header&text=Ebenezer%20C.%20Danila&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Analytics%20Engineer&descSize=18&descAlignY=62&descColor=FFCCCC)](https://github.com/ebenezerdanila-lgtm)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0000,25:2D0000,55:8B0000,85:C0392B,100:E74C3C&height=280&section=header&text=Ebenezer%20C.%20Danila&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Data%20Analyst%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Analytics%20Engineer&descSize=18&descAlignY=64&descColor=FFB3B3)](https://github.com/ebenezerdanila-lgtm)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=FF4444&center=true&vCenter=true&width=650&height=42&lines=3rd-Year+BSIS+%7C+Business+Analytics+%7C+WVSU-CICT;Turning+raw+data+into+real+decisions.;Building+systems+that+serve+real+people.;Still+learning.+Still+building.+Still+becoming." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=800&color=FF4444&center=true&vCenter=true&width=650&height=45&lines=3rd-Year+BSIS+%7C+Business+Analytics+%7C+WVSU-CICT;Turning+raw+data+into+real+decisions.;Building+systems+that+serve+real+communities.;Still+learning.+Still+building.+Still+becoming." alt="Typing SVG"/>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3" width="100%"/>
 
 ## 🧭 `01` · Who I Am
 
-| <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/> | <div><br>Hi, I'm **Benz** — a third-year **BS Information Systems** student majoring in **Business Analytics** at **West Visayas State University – CICT**, Iloilo City, Philippines.<br><br>I work at the intersection of **data, systems, and human decisions** — where numbers stop being abstract and start being useful. I care about building things that matter: systems for real communities, analyses grounded in rigor, and insights that move people to act.<br><br>Currently co-developing **LGU-SDSS** — a geospatial decision support system for LGU planners, built on real PSA-CBMS household data. The most meaningful project I've built so far.<br><br>📍 Iloilo City, Philippines &nbsp;·&nbsp; 🎮 Honkai Star Rail &nbsp;·&nbsp; 🎵 City Pop & Jazz &nbsp;·&nbsp; 🐟 Fish keeper</div> |
-|---|---|
+```python
+class Benz:
+    name       = "Ebenezer C. Danila"
+    role       = "BSIS Student | Business Analytics Major"
+    university = "West Visayas State University – CICT"
+    location   = "Iloilo City, Philippines"
+    focus      = ["Data Analytics", "Geospatial Systems", "Business Intelligence"]
+    thesis     = "LGU-SDSS — Spatial Decision Support Information System"
+    currently  = "50% defense done → re-defense incoming 🔥"
+```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
+I work at the intersection of **data, systems, and human decisions** — where raw numbers stop being abstract and start being useful. I care about building things that actually matter: systems grounded in rigor, insights that move people to act, and analyses that hold up to scrutiny.
+
+Currently co-developing **LGU-SDSS** — a geospatial decision support system for LGU planners built on real PSA-CBMS household data. The most meaningful project I've built so far.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3" width="100%"/>
 
 ---
 
@@ -23,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1200&color=FF4444&center=true&vCenter=true&width=780&height=60&lines=Data+without+context+is+just+noise.;I+build+the+bridge+between+raw+information...;...and+the+decisions+that+move+communities+forward." alt="Mission Typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=3800&pause=1400&color=FF4444&center=true&vCenter=true&width=780&height=55&lines=Data+without+context+is+just+noise.;I+build+the+bridge+between+raw+information...;...and+the+decisions+that+move+communities+forward." alt="Mission"/>
 
 </div>
 
@@ -31,9 +43,9 @@
 
 I'm building toward a career as a **Data Analyst** or **Business Analytics Professional** — not just someone who runs queries, but someone who frames *why the numbers matter* and prescribes *what to do next*.
 
-Long-term, I want to work at the intersection of **public sector analytics**, **geospatial intelligence**, and **business decision systems** — creating tools that are accessible, rigorous, and built for real impact.
+Long-term, I want to work at the intersection of **public sector analytics**, **geospatial intelligence**, and **business decision systems** — building tools that are accessible, rigorous, and built for real impact.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3" width="100%"/>
 
 ---
 
@@ -139,14 +151,13 @@ Long-term, I want to work at the intersection of **public sector analytics**, **
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3" width="100%"/>
 
 ---
 
 ## 🗂️ `04` · Featured Projects
 
 ### 🌐 LGU-SDSS — Spatial Decision Support Information System
-
 ![Status](https://img.shields.io/badge/Status-In%20Progress-8B0000?style=flat-square) ![Role](https://img.shields.io/badge/Role-Co--Developer-C0392B?style=flat-square) ![Type](https://img.shields.io/badge/Type-Undergraduate%20Thesis-4A0000?style=flat-square)
 
 A full-stack **geospatial decision support system** for Local Government Unit planners. Integrates PSA-CBMS household-level data to visualize **family vulnerability**, detect **kinship networks** via consanguinity matching, and map **poverty pockets** across barangays using interactive Leaflet maps.
@@ -162,7 +173,6 @@ A full-stack **geospatial decision support system** for Local Government Unit pl
 ---
 
 ### 📈 Credit Risk Scoring & Robust Regression Analysis
-
 ![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Scikit--learn-C0392B?style=flat-square)
 
 Applied **multiple and robust regression** to model credit risk scores from financial datasets. Full assumption checking — linearity, normality, homoscedasticity — with residual diagnostics and model evaluation.
@@ -172,34 +182,31 @@ Applied **multiple and robust regression** to model credit risk scores from fina
 ---
 
 ### 🔗 Correlation Analysis — Radio Ads vs Sales / Review Hours vs Grades
-
 ![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20SciPy%20·%20Seaborn-C0392B?style=flat-square)
 
-Rigorous **multi-method correlation analysis** using Pearson, Spearman, and Kendall's Tau-b. Full normality and linearity checks, scatter visualizations, and significance interpretation on paired real-world datasets.
+Rigorous **multi-method correlation analysis** using Pearson, Spearman, and Kendall's Tau-b on real-world datasets. Full normality and linearity checks with significance interpretation.
 
 `Hypothesis Testing` · `Distribution Checking` · `Statistical Storytelling`
 
 ---
 
 ### 🧹 Data Cleaning Projects — Jutsu & Mission Datasets
-
 ![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Pandas-C0392B?style=flat-square)
 
-Identified and resolved complex data quality issues — **missing values**, **negative entries**, **invalid date ranges**, **inconsistent payment statuses** — producing clean, audit-ready outputs.
+Resolved complex data quality issues — **missing values**, **negative entries**, **invalid date ranges**, **inconsistent payment statuses** — producing clean, audit-ready outputs.
 
 `Data Wrangling` · `Data Integrity` · `Pandas Pipelines`
 
 ---
 
 ### 📊 Descriptive Analytics Series
-
 ![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Pandas%20·%20researchpy-C0392B?style=flat-square)
 
-EDA across sleep patterns, job satisfaction, and employee performance datasets. Normality checks, grouped descriptives, frequency distributions — following a strict **EDA-first philosophy**.
+EDA across sleep patterns, job satisfaction, and employee performance datasets. Normality checks, grouped descriptives, frequency distributions — strict **EDA-first philosophy**.
 
 `EDA` · `Grouped Analysis` · `Statistical Reporting`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3" width="100%"/>
 
 ---
 
@@ -214,9 +221,21 @@ EDA across sleep patterns, job satisfaction, and employee performance datasets. 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebenezerdanila-lgtm&theme=transparent&background=0D0000&stroke=8B0000&ring=C0392B&fire=FF4444&currStreakLabel=FF4444&sideNums=FFCCCC&currStreakNum=FFFFFF&dates=FFAAAA&border=8B0000" width="55%"/>
 
+<br><br>
+
+### 🐍 Contribution Snake
+
+> **Setup required:** Go to your repo → Actions → New Workflow → paste the YAML below → commit → wait ~2 mins → snake appears here automatically every day.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebenezerdanila-lgtm/ebenezerdanila-lgtm/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebenezerdanila-lgtm/ebenezerdanila-lgtm/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ebenezerdanila-lgtm/ebenezerdanila-lgtm/output/github-snake.svg"/>
+</picture>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3" width="100%"/>
 
 ---
 
@@ -236,7 +255,7 @@ Precision in data cleaning, schema design, and documentation. Errors don't hide 
 Translates statistical outputs and system logic into plain-language insights for non-technical stakeholders.
 
 **⚡ Critical Thinking**
-Applied in selecting appropriate statistical methods, system architecture decisions, and resolving edge cases under ambiguity.
+Applied in selecting appropriate statistical methods, system architecture, and resolving edge cases under ambiguity.
 
 </td>
 <td width="50%" valign="top">
@@ -257,7 +276,7 @@ Took ownership of system components, contributed proactively, and pushed deliver
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3" width="100%"/>
 
 ---
 
@@ -267,14 +286,14 @@ I believe the best analysts are curious people first.
 
 | | |
 |---|---|
-| 🎵 **Music** | City Pop, Jazz, OPM — my reset button after long debugging sessions |
+| 🎵 **Music** | City Pop, Jazz, OPM — reset button after long debugging sessions |
 | 🎬 **Films & Series** | Storytelling that sharpens how I frame and communicate insights |
 | 📚 **Reading & Research** | Staying on the edge of what's new in tech, data, and systems |
 | 🎮 **Honkai Star Rail** | Strategy, world-building, and beautifully designed systems |
 | 🐟 **Aquarium Keeping** | Patience, system thinking, and the joy of building something that lives |
 | 🤝 **Community** | Collaboration, growth, and paying it forward |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3" width="100%"/>
 
 ---
 
