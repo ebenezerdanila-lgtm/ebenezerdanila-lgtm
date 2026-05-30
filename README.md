@@ -4,17 +4,13 @@
 
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,25:0A2540,50:0E3460,75:0A7EA4,100:00C2CB&height=280&section=header&text=Ebenezer%20C.%20Danila&fontSize=52&fontColor=E8F4FD&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Analytics%20Engineer&descSize=18&descAlignY=60&descColor=7DD3FC)](https://github.com/ebenezerdanila-lgtm)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,25:3D0000,50:6B0000,75:8B0000,100:B22222&height=280&section=header&text=Ebenezer%20C.%20Danila&fontSize=52&fontColor=F5E6E6&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Analytics%20Engineer&descSize=18&descAlignY=60&descColor=FFAAAA)](https://github.com/ebenezerdanila-lgtm)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C2CB&center=true&vCenter=true&width=680&height=45&lines=Turning+raw+data+into+meaningful+decisions.;Building+systems+that+serve+real+communities.;3rd-Year+BSIS+%7C+Business+Analytics+%7C+WVSU-CICT)](https://github.com/ebenezerdanila-lgtm)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=680&height=45&lines=Turning+raw+data+into+meaningful+decisions.;Building+systems+that+serve+real+communities.;3rd-Year+BSIS+%7C+Business+Analytics+%7C+WVSU-CICT)](https://github.com/ebenezerdanila-lgtm)
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🌊 `01` · About Me
 
@@ -36,17 +32,13 @@ Currently co-developing **LGU-SDSS**, a geospatial decision support system for l
 </td>
 <td width="40%" align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2800&pause=700&color=7DD3FC&center=true&vCenter=true&width=320&height=200&lines=Data+Cleaning+%E2%9C%93;Exploratory+Data+Analysis+%E2%9C%93;Regression+%26+Correlation+%E2%9C%93;Linear+Programming+%E2%9C%93;Geospatial+Systems+%E2%9C%93;Building+%7C+Learning+%7C+Growing)](https://github.com/ebenezerdanila-lgtm)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2800&pause=700&color=FF6B6B&center=true&vCenter=true&width=320&height=200&lines=Data+Cleaning+%E2%9C%93;Exploratory+Data+Analysis+%E2%9C%93;Regression+%26+Correlation+%E2%9C%93;Linear+Programming+%E2%9C%93;Geospatial+Systems+%E2%9C%93;Building+%7C+Learning+%7C+Growing)](https://github.com/ebenezerdanila-lgtm)
 
 </td>
 </tr>
 </table>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CAREER MISSION                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎯 `02` · Mission
 
@@ -58,55 +50,47 @@ My long-term aim is to work at the intersection of **public sector data systems*
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🛠️ `03` · Tech Stack & Tools
 
 ### ⚙️ Languages & Web
 
-![Python](https://img.shields.io/badge/Python-0D1B2A?style=for-the-badge&logo=python&logoColor=00C2CB)
-![R](https://img.shields.io/badge/R-0D1B2A?style=for-the-badge&logo=r&logoColor=7DD3FC)
-![SQL](https://img.shields.io/badge/SQL-0D1B2A?style=for-the-badge&logo=postgresql&logoColor=00C2CB)
-![HTML5](https://img.shields.io/badge/HTML5-0D1B2A?style=for-the-badge&logo=html5&logoColor=7DD3FC)
-![CSS3](https://img.shields.io/badge/CSS3-0D1B2A?style=for-the-badge&logo=css3&logoColor=00C2CB)
+![Python](https://img.shields.io/badge/Python-1A0000?style=for-the-badge&logo=python&logoColor=FF6B6B)
+![R](https://img.shields.io/badge/R-1A0000?style=for-the-badge&logo=r&logoColor=FFAAAA)
+![SQL](https://img.shields.io/badge/SQL-1A0000?style=for-the-badge&logo=postgresql&logoColor=FF6B6B)
+![HTML5](https://img.shields.io/badge/HTML5-1A0000?style=for-the-badge&logo=html5&logoColor=FFAAAA)
+![CSS3](https://img.shields.io/badge/CSS3-1A0000?style=for-the-badge&logo=css3&logoColor=FF6B6B)
 
 ### 🧰 Tools & Platforms
 
-![Jupyter](https://img.shields.io/badge/Jupyter-0D1B2A?style=for-the-badge&logo=jupyter&logoColor=00C2CB)
-![Anaconda](https://img.shields.io/badge/Anaconda-0D1B2A?style=for-the-badge&logo=anaconda&logoColor=7DD3FC)
-![MySQL](https://img.shields.io/badge/MySQL-0D1B2A?style=for-the-badge&logo=mysql&logoColor=00C2CB)
-![Git](https://img.shields.io/badge/Git-0D1B2A?style=for-the-badge&logo=git&logoColor=7DD3FC)
-![GitHub](https://img.shields.io/badge/GitHub-0D1B2A?style=for-the-badge&logo=github&logoColor=00C2CB)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1B2A?style=for-the-badge&logo=visual-studio-code&logoColor=7DD3FC)
-![Figma](https://img.shields.io/badge/Figma-0D1B2A?style=for-the-badge&logo=figma&logoColor=00C2CB)
-![Canva](https://img.shields.io/badge/Canva-0D1B2A?style=for-the-badge&logo=canva&logoColor=7DD3FC)
+![Jupyter](https://img.shields.io/badge/Jupyter-1A0000?style=for-the-badge&logo=jupyter&logoColor=FF6B6B)
+![Anaconda](https://img.shields.io/badge/Anaconda-1A0000?style=for-the-badge&logo=anaconda&logoColor=FFAAAA)
+![MySQL](https://img.shields.io/badge/MySQL-1A0000?style=for-the-badge&logo=mysql&logoColor=FF6B6B)
+![Git](https://img.shields.io/badge/Git-1A0000?style=for-the-badge&logo=git&logoColor=FFAAAA)
+![GitHub](https://img.shields.io/badge/GitHub-1A0000?style=for-the-badge&logo=github&logoColor=FF6B6B)
+![VS Code](https://img.shields.io/badge/VS_Code-1A0000?style=for-the-badge&logo=visual-studio-code&logoColor=FFAAAA)
+![Figma](https://img.shields.io/badge/Figma-1A0000?style=for-the-badge&logo=figma&logoColor=FF6B6B)
+![Canva](https://img.shields.io/badge/Canva-1A0000?style=for-the-badge&logo=canva&logoColor=FFAAAA)
 
 ### 📊 Analytics & Data Science
 
-![Pandas](https://img.shields.io/badge/Pandas-0D1B2A?style=for-the-badge&logo=pandas&logoColor=00C2CB)
-![NumPy](https://img.shields.io/badge/NumPy-0D1B2A?style=for-the-badge&logo=numpy&logoColor=7DD3FC)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D1B2A?style=for-the-badge&logo=scikit-learn&logoColor=00C2CB)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1B2A?style=for-the-badge&logo=python&logoColor=7DD3FC)
-![Seaborn](https://img.shields.io/badge/Seaborn-0D1B2A?style=for-the-badge&logo=python&logoColor=00C2CB)
-![SciPy](https://img.shields.io/badge/SciPy-0D1B2A?style=for-the-badge&logo=scipy&logoColor=7DD3FC)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-0D1B2A?style=for-the-badge&logo=microsoft-excel&logoColor=00C2CB)
+![Pandas](https://img.shields.io/badge/Pandas-1A0000?style=for-the-badge&logo=pandas&logoColor=FF6B6B)
+![NumPy](https://img.shields.io/badge/NumPy-1A0000?style=for-the-badge&logo=numpy&logoColor=FFAAAA)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1A0000?style=for-the-badge&logo=scikit-learn&logoColor=FF6B6B)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1A0000?style=for-the-badge&logo=python&logoColor=FFAAAA)
+![Seaborn](https://img.shields.io/badge/Seaborn-1A0000?style=for-the-badge&logo=python&logoColor=FF6B6B)
+![SciPy](https://img.shields.io/badge/SciPy-1A0000?style=for-the-badge&logo=scipy&logoColor=FFAAAA)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-1A0000?style=for-the-badge&logo=microsoft-excel&logoColor=FF6B6B)
 
 ### 🌱 Currently Learning
 
-![Plotly](https://img.shields.io/badge/Plotly-0D1B2A?style=for-the-badge&logo=plotly&logoColor=00C2CB)
-![Power BI](https://img.shields.io/badge/Power_BI-0D1B2A?style=for-the-badge&logo=powerbi&logoColor=7DD3FC)
-![Tableau](https://img.shields.io/badge/Tableau-0D1B2A?style=for-the-badge&logo=tableau&logoColor=00C2CB)
-![React](https://img.shields.io/badge/React.js-0D1B2A?style=for-the-badge&logo=react&logoColor=7DD3FC)
-![Flask](https://img.shields.io/badge/Flask-0D1B2A?style=for-the-badge&logo=flask&logoColor=00C2CB)
-![PostGIS](https://img.shields.io/badge/PostGIS-0D1B2A?style=for-the-badge&logo=postgresql&logoColor=7DD3FC)
+![Plotly](https://img.shields.io/badge/Plotly-1A0000?style=for-the-badge&logo=plotly&logoColor=FF6B6B)
+![Power BI](https://img.shields.io/badge/Power_BI-1A0000?style=for-the-badge&logo=powerbi&logoColor=FFAAAA)
+![Tableau](https://img.shields.io/badge/Tableau-1A0000?style=for-the-badge&logo=tableau&logoColor=FF6B6B)
+![React](https://img.shields.io/badge/React.js-1A0000?style=for-the-badge&logo=react&logoColor=FFAAAA)
+![Flask](https://img.shields.io/badge/Flask-1A0000?style=for-the-badge&logo=flask&logoColor=FF6B6B)
+![PostGIS](https://img.shields.io/badge/PostGIS-1A0000?style=for-the-badge&logo=postgresql&logoColor=FFAAAA)
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      FEATURED PROJECTS                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🗂️ `04` · Featured Projects
 
@@ -156,33 +140,25 @@ Identified and resolved complex data quality issues including **missing values**
 ### 📊 5. Descriptive Analytics Series
 > *Academic Project · Python · Pandas · qdesc · researchpy*
 
-Conducted **exploratory data analysis** on sleep patterns, job satisfaction, and employee performance datasets. Included normality checks, grouped descriptive statistics, frequency distributions, and visual summaries — following an EDA-first philosophy.
+Conducted **exploratory data analysis** on sleep patterns, job satisfaction, and employee performance datasets. Included normality checks, grouped descriptive statistics, frequency distributions, and visual summaries.
 
 **Key Skills Demonstrated:** EDA · Grouped analysis · Statistical reporting
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 📊 `05` · GitHub Activity
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebenezerdanila-lgtm&show_icons=true&theme=transparent&title_color=00C2CB&text_color=7DD3FC&icon_color=00C2CB&border_color=0A7EA4&bg_color=0D1B2A)](https://github.com/ebenezerdanila-lgtm)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebenezerdanila-lgtm&show_icons=true&theme=transparent&title_color=FF6B6B&text_color=FFAAAA&icon_color=FF6B6B&border_color=6B0000&bg_color=1A0000)](https://github.com/ebenezerdanila-lgtm)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebenezerdanila-lgtm&theme=transparent&background=0D1B2A&stroke=0A7EA4&ring=00C2CB&fire=7DD3FC&currStreakLabel=00C2CB&sideNums=D9FFFF&currStreakNum=FFFFFF&dates=7FDBFF&border=0A7EA4)](https://github.com/ebenezerdanila-lgtm)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebenezerdanila-lgtm&theme=transparent&background=1A0000&stroke=6B0000&ring=FF6B6B&fire=FFAAAA&currStreakLabel=FF6B6B&sideNums=FFD0D0&currStreakNum=FFFFFF&dates=FFAAAA&border=6B0000)](https://github.com/ebenezerdanila-lgtm)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerdanila-lgtm&layout=compact&theme=transparent&title_color=00C2CB&text_color=7DD3FC&border_color=0A7EA4&bg_color=0D1B2A)](https://github.com/ebenezerdanila-lgtm)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerdanila-lgtm&layout=compact&theme=transparent&title_color=FF6B6B&text_color=FFAAAA&border_color=6B0000&bg_color=1A0000)](https://github.com/ebenezerdanila-lgtm)
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROFESSIONAL STRENGTHS                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 💡 `06` · Professional Strengths
 
@@ -199,10 +175,6 @@ Conducted **exploratory data analysis** on sleep patterns, job satisfaction, and
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         BEYOND CODE                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🌙 `07` · Beyond the Code
 
 I believe the best analysts are curious people first. Outside of data and systems, I recharge through:
@@ -216,33 +188,25 @@ I believe the best analysts are curious people first. Outside of data and system
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       CONNECT                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🌐 `08` · Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ebenezerdanila--lgtm-0D1B2A?style=for-the-badge&logo=github&logoColor=00C2CB&labelColor=0A2540)](https://github.com/ebenezerdanila-lgtm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ebenezer%20Danila-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=7DD3FC&labelColor=0A2540)](https://www.linkedin.com/in/ebenezer-danila/)
-[![Email](https://img.shields.io/badge/Email%20(WVSU)-ebenezer.danila%40wvsu.edu.ph-0D1B2A?style=for-the-badge&logo=gmail&logoColor=00C2CB&labelColor=0A2540)](mailto:ebenezer.danila@wvsu.edu.ph)
-[![Email](https://img.shields.io/badge/Email%20(Personal)-danila.ebenezer%40gmail.com-0D1B2A?style=for-the-badge&logo=gmail&logoColor=7DD3FC&labelColor=0A2540)](mailto:danila.ebenezer@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ebenezerdanila--lgtm-1A0000?style=for-the-badge&logo=github&logoColor=FF6B6B&labelColor=3D0000)](https://github.com/ebenezerdanila-lgtm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ebenezer%20Danila-1A0000?style=for-the-badge&logo=linkedin&logoColor=FFAAAA&labelColor=3D0000)](https://www.linkedin.com/in/ebenezer-danila/)
+[![Email](https://img.shields.io/badge/Email%20(WVSU)-ebenezer.danila%40wvsu.edu.ph-1A0000?style=for-the-badge&logo=gmail&logoColor=FF6B6B&labelColor=3D0000)](mailto:ebenezer.danila@wvsu.edu.ph)
+[![Email](https://img.shields.io/badge/Email%20(Personal)-danila.ebenezer%40gmail.com-1A0000?style=for-the-badge&logo=gmail&logoColor=FFAAAA&labelColor=3D0000)](mailto:danila.ebenezer@gmail.com)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CLOSING STATEMENT                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&height=45&lines=Still+learning.+%E2%80%A2+Still+building.+%E2%80%A2+Still+becoming.;Every+dataset+is+a+story+waiting+to+be+told.;Open+to+opportunities%2C+collaborations%2C+and+conversations.)](https://github.com/ebenezerdanila-lgtm)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&height=45&lines=Still+learning.+%E2%80%A2+Still+building.+%E2%80%A2+Still+becoming.;Every+dataset+is+a+story+waiting+to+be+told.;Open+to+opportunities%2C+collaborations%2C+and+conversations.)](https://github.com/ebenezerdanila-lgtm)
 
 > *The most powerful tool in analytics isn't a model or a framework — it's the discipline to ask better questions.*
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,25:0A7EA4,50:0E3460,75:0A2540,100:0D1B2A&height=120&section=footer)](https://github.com/ebenezerdanila-lgtm)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:B22222,25:8B0000,50:6B0000,75:3D0000,100:1A0000&height=120&section=footer)](https://github.com/ebenezerdanila-lgtm)
 
 </div>
