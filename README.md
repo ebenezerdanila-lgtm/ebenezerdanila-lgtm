@@ -128,7 +128,7 @@ Performed rigorous **multi-correlation analysis** using Pearson, Spearman, and K
 
 ---
 
-### 🧹 4. Data Cleaning Projects — Jutsu & Mission Datasets
+### 🧹 4. Data Cleaning Projects 
 > *Academic Project · Python · Pandas*
 
 Identified and resolved complex data quality issues including **missing values**, **negative entries**, **invalid date ranges**, and **inconsistent payment statuses** across real customer datasets. Produced clean, analysis-ready outputs with complete audit trails.
