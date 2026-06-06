@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0000,25:2D0000,55:8B0000,85:C0392B,100:E74C3C&height=280&section=header&text=Ebenezer%20C.%20Danila&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Data%20Analyst%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Analytics%20Engineer&descSize=18&descAlignY=64&descColor=FFB3B3)](https://github.com/ebenezerdanila-lgtm)
+[![Header](YOUR_RAW_SVG_URL)](https://github.com/ebenezerdanila-lgtm)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=800&color=FF4444&center=true&vCenter=true&width=650&height=45&lines=3rd-Year+BSIS+%7C+Business+Analytics+%7C+WVSU-CICT;Turning+raw+data+into+real+decisions.;Building+systems+that+serve+real+communities.;Still+learning.+Still+building.+Still+becoming." alt="Typing SVG"/>
 
