@@ -48,30 +48,40 @@ Long-term, I want to work at the intersection of **public sector analytics**, **
 ## 🛠️ `03` · Tech Stack
 
 ### `Languages & Web`
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" title="R"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="SQL/PostgreSQL"/>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" title="R"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="SQL/PostgreSQL"/>
+</p>
 
 ### `Tools & Platforms`
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" title="Jupyter"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" title="Anaconda"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" title="SQLAlchemy"/>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" title="Jupyter"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" title="Anaconda"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" title="Canva"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" title="SQLAlchemy"/>
+</p>
 
 ### `Analytics & Data Science`
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" title="Scikit-learn"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40" title="Plotly"/>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" title="Scikit-learn"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40" title="Plotly"/>
+</p>
 
 [![](https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3)](https://github.com/ebenezerdanila-lgtm)
 
@@ -80,9 +90,8 @@ Long-term, I want to work at the intersection of **public sector analytics**, **
 ## 🗂️ `04` · Featured Projects
 
 ### 🌐 LGU-SDSS — Spatial Decision Support Information System
-![Status](https://img.shields.io/badge/Status-In%20Progress-8B0000?style=flat-square)
-![Role](https://img.shields.io/badge/Role-Co--Developer-C0392B?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Undergraduate%20Thesis-4A0000?style=flat-square)
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-8B0000?style=flat-square) ![Role](https://img.shields.io/badge/Role-Co--Developer-C0392B?style=flat-square) ![Type](https://img.shields.io/badge/Type-Undergraduate%20Thesis-4A0000?style=flat-square)
 
 A full-stack **geospatial decision support system** for Local Government Unit planners. Integrates PSA-CBMS household-level data to visualize **family vulnerability**, detect **kinship networks** via consanguinity matching, and map **poverty pockets** across barangays using interactive Leaflet maps.
 
@@ -97,9 +106,8 @@ A full-stack **geospatial decision support system** for Local Government Unit pl
 ---
 
 ### 🌍 Global Sustainable Energy & SDG 7 Progress Dashboard
-![Status](https://img.shields.io/badge/Status-Deployed-8B0000?style=flat-square)
-![Role](https://img.shields.io/badge/Role-Co--Developer-C0392B?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Group%20Academic%20Project-4A0000?style=flat-square)
+
+![Status](https://img.shields.io/badge/Status-Deployed-8B0000?style=flat-square) ![Role](https://img.shields.io/badge/Role-Co--Developer-C0392B?style=flat-square) ![Type](https://img.shields.io/badge/Type-Group%20Academic%20Project-4A0000?style=flat-square)
 
 An interactive **data analytics dashboard** tracking global energy transition trends across 152 nations (2000–2020), built in support of the UN Sustainable Development Goal 7 — *Affordable and Clean Energy*. Quantifies the **"Decarbonization Paradox"** and maps persistent electricity access equity gaps.
 
@@ -112,14 +120,13 @@ An interactive **data analytics dashboard** tracking global energy transition tr
 
 **Group Members:** Ebenezer C. Danila · Fara Lorraine Jaboneta · Erden Jhed Teope
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-ebenezerdanila--lgtm-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebenezerdanila-lgtm/Global-Sustainable-Energy-SDG-7-Progress-Dashboard)
-[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Open%20App-C0392B?style=for-the-badge&logo=streamlit&logoColor=white)](https://life-expectancy-dashboard-lzo8leacaaruw42k5kfbkn.streamlit.app/)
+[![View Repo](https://img.shields.io/badge/View%20Repository-ebenezerdanila--lgtm-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebenezerdanila-lgtm/Global-Sustainable-Energy-SDG-7-Progress-Dashboard) [![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Open%20App-C0392B?style=for-the-badge&logo=streamlit&logoColor=white)](https://life-expectancy-dashboard-lzo8leacaaruw42k5kfbkn.streamlit.app/)
 
 ---
 
 ### 📈 Credit Risk Scoring & Robust Regression Analysis
-![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square)
-![Tools](https://img.shields.io/badge/Tools-Python%20·%20Scikit--learn-C0392B?style=flat-square)
+
+![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Scikit--learn-C0392B?style=flat-square)
 
 Applied **multiple and robust regression** to model credit risk scores from financial datasets. Full assumption checking — linearity, normality, homoscedasticity — with residual diagnostics and model evaluation.
 
@@ -128,8 +135,8 @@ Applied **multiple and robust regression** to model credit risk scores from fina
 ---
 
 ### 🔗 Correlation Analysis — Radio Ads vs Sales / Review Hours vs Grades
-![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square)
-![Tools](https://img.shields.io/badge/Tools-Python%20·%20SciPy%20·%20Seaborn-C0392B?style=flat-square)
+
+![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20SciPy%20·%20Seaborn-C0392B?style=flat-square)
 
 Rigorous **multi-method correlation analysis** using Pearson, Spearman, and Kendall's Tau-b on real-world datasets. Full normality and linearity checks with significance interpretation.
 
@@ -138,8 +145,8 @@ Rigorous **multi-method correlation analysis** using Pearson, Spearman, and Kend
 ---
 
 ### 🧹 Data Cleaning Projects
-![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square)
-![Tools](https://img.shields.io/badge/Tools-Python%20·%20Pandas-C0392B?style=flat-square)
+
+![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Pandas-C0392B?style=flat-square)
 
 Resolved complex data quality issues — **missing values**, **negative entries**, **invalid date ranges**, **inconsistent payment statuses** — producing clean, audit-ready outputs.
 
@@ -148,8 +155,8 @@ Resolved complex data quality issues — **missing values**, **negative entries*
 ---
 
 ### 📊 Descriptive Analytics Series
-![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square)
-![Tools](https://img.shields.io/badge/Tools-Python%20·%20Pandas%20·%20researchpy-C0392B?style=flat-square)
+
+![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Pandas%20·%20researchpy-C0392B?style=flat-square)
 
 EDA across sleep patterns, job satisfaction, and employee performance datasets. Normality checks, grouped descriptives, frequency distributions — strict **EDA-first philosophy**.
 
@@ -161,10 +168,13 @@ EDA across sleep patterns, job satisfaction, and employee performance datasets. 
 
 ## 📊 `05` · GitHub Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebenezerdanila-lgtm&show_icons=true&theme=transparent&title_color=FF4444&text_color=FFAAAA&icon_color=C0392B&border_color=8B0000&hide_border=false&rank_icon=github)](https://github.com/ebenezerdanila-lgtm)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerdanila-lgtm&layout=compact&theme=transparent&title_color=FF4444&text_color=FFAAAA&border_color=8B0000&bg_color=0D0000)](https://github.com/ebenezerdanila-lgtm)
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebenezerdanila-lgtm&show_icons=true&theme=transparent&title_color=FF4444&text_color=FFAAAA&icon_color=C0392B&border_color=8B0000&hide_border=false&rank_icon=github)](https://github.com/ebenezerdanila-lgtm)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerdanila-lgtm&layout=compact&theme=transparent&title_color=FF4444&text_color=FFAAAA&border_color=8B0000&bg_color=0D0000)](https://github.com/ebenezerdanila-lgtm)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebenezerdanila-lgtm&theme=transparent&background=0D0000&stroke=8B0000&ring=C0392B&fire=FF4444&currStreakLabel=FF4444&sideNums=FFCCCC&currStreakNum=FFFFFF&dates=FFAAAA&border=8B0000)](https://github.com/ebenezerdanila-lgtm)
+
+</div>
 
 ### 🐍 Contribution Snake
 
@@ -206,16 +216,24 @@ I believe the best analysts are curious people first.
 
 ## 🌐 `08` · Connect With Me
 
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-ebenezerdanila--lgtm-0D0000?style=for-the-badge&logo=github&logoColor=FF6B6B&labelColor=4A0000)](https://github.com/ebenezerdanila-lgtm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ebenezer%20Danila-0D0000?style=for-the-badge&logo=linkedin&logoColor=FFAAAA&labelColor=4A0000)](https://www.linkedin.com/in/ebenezer-danila/)
 [![WVSU Mail](https://img.shields.io/badge/WVSU%20Mail-ebenezer.danila-0D0000?style=for-the-badge&logo=gmail&logoColor=FF6B6B&labelColor=4A0000)](mailto:ebenezer.danila@wvsu.edu.ph)
 [![Gmail](https://img.shields.io/badge/Gmail-danila.ebenezer-0D0000?style=for-the-badge&logo=gmail&logoColor=FFAAAA&labelColor=4A0000)](mailto:danila.ebenezer@gmail.com)
 
+</div>
+
 ---
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1000&color=FF4444&center=true&vCenter=true&width=700&height=40&lines=Still+learning.+%E2%80%A2+Still+building.+%E2%80%A2+Still+becoming.;Every+dataset+is+a+story+waiting+to+be+told.;Open+to+opportunities%2C+collaborations%2C+and+conversations.)](https://github.com/ebenezerdanila-lgtm)
 
 > *The most powerful tool in analytics isn't a model or a framework —*
 > *it's the discipline to ask better questions.*
+
+</div>
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C0392B,30:8B0000,70:4A0000,100:0D0000&height=130&section=footer)](https://github.com/ebenezerdanila-lgtm)
