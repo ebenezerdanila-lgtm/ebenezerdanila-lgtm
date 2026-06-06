@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=800&color=FF4444&center=true&vCenter=true&width=650&height=45&lines=3rd-Year+BSIS+%7C+Business+Analytics+%7C+WVSU-CICT;Turning+raw+data+into+real+decisions.;Building+systems+that+serve+real+communities.;Still+learning.+Still+building.+Still+becoming." alt="Typing SVG"/>
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ebenezerdanila-lgtm&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
 
 </div>
 
