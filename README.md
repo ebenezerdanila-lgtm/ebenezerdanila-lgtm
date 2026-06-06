@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](YOUR_RAW_SVG_URL)](https://github.com/ebenezerdanila-lgtm)
+[![Header](https://raw.githubusercontent.com/ebenezerdanila-lgtm/ebenezerdanila-lgtm/refs/heads/main/ebenezerdanila-lgtm-profile-banner.svg))](https://github.com/ebenezerdanila-lgtm)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=800&color=FF4444&center=true&vCenter=true&width=650&height=45&lines=3rd-Year+BSIS+%7C+Business+Analytics+%7C+WVSU-CICT;Turning+raw+data+into+real+decisions.;Building+systems+that+serve+real+communities.;Still+learning.+Still+building.+Still+becoming." alt="Typing SVG"/>
 
