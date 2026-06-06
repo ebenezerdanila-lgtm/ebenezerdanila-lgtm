@@ -6,7 +6,7 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ebenezerdanila-lgtm&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS)](https://github.com/ebenezerdanila-lgtm)
+<img src="https://github-profile-trophy.vercel.app/?username=ebenezerdanila-lgtm&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
 
 </div>
 
