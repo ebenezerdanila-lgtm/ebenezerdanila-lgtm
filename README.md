@@ -236,8 +236,8 @@ EDA across sleep patterns, job satisfaction, and employee performance datasets. 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ebenezerdanila-lgtm&show_icons=true&theme=transparent&title_color=FF4444&text_color=FFAAAA&icon_color=C0392B&border_color=8B0000&bg_color=0D0000&hide_border=false&rank_icon=github" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerdanila-lgtm&layout=compact&theme=transparent&title_color=FF4444&text_color=FFAAAA&border_color=8B0000&bg_color=0D0000" width="38%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ebenezerdanila-lgtm&show_icons=true&theme=transparent&title_color=FF4444&text_color=FFAAAA&icon_color=C0392B&border_color=8B0000&bg_color=0D0000&hide_border=false&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ebenezerdanila-lgtm&layout=compact&theme=transparent&title_color=FF4444&text_color=FFAAAA&border_color=8B0000&bg_color=0D0000" width="38%"/>
 
 <br><br>
 
