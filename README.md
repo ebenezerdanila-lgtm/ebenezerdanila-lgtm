@@ -1,9 +1,8 @@
 <div align="center">
 
-[![Header](https://raw.githubusercontent.com/ebenezerdanila-lgtm/ebenezerdanila-lgtm/refs/heads/main/ebenezerdanila-lgtm-profile-banner.svg))](https://github.com/ebenezerdanila-lgtm)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0000,30:4A0000,65:8B0000,85:C0392B,100:E74C3C&height=280&section=header&text=Ebenezer%20C.%20Danila&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Analytics%20Developer&descSize=18&descAlignY=64&descColor=FFB3B3)](https://github.com/ebenezerdanila-lgtm)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=800&color=FF4444&center=true&vCenter=true&width=650&height=45&lines=3rd-Year+BSIS+%7C+Business+Analytics+%7C+WVSU-CICT;Turning+raw+data+into+real+decisions.;Building+systems+that+serve+real+communities.;Still+learning.+Still+building.+Still+becoming." alt="Typing SVG"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=800&color=FF4444&center=true&vCenter=true&width=650&height=45&lines=Data+Analyst+%7C+Business+Intelligence+%7C+Analytics+Developer;Turning+raw+data+into+real+decisions.;Building+systems+that+serve+real+communities.;Still+learning.+Still+building.+Still+becoming." alt="Typing SVG"/>
 
 </div>
 
@@ -209,7 +208,7 @@ Rigorous **multi-method correlation analysis** using Pearson, Spearman, and Kend
 
 ---
 
-### 🧹 Data Cleaning Projects 
+### 🧹 Data Cleaning Projects
 ![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Pandas-C0392B?style=flat-square)
 
 Resolved complex data quality issues — **missing values**, **negative entries**, **invalid date ranges**, **inconsistent payment statuses** — producing clean, audit-ready outputs.
@@ -243,7 +242,6 @@ EDA across sleep patterns, job satisfaction, and employee performance datasets. 
 <br><br>
 
 ### 🐍 Contribution Snake
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebenezerdanila-lgtm/ebenezerdanila-lgtm/output/github-snake-dark.svg"/>
