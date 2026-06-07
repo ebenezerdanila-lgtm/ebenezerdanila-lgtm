@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://raw.githubusercontent.com/ebenezerdanila-lgtm/ebenezerdanila-lgtm/refs/heads/main/ebenezerdanila-lgtm-profile-banner.svg)](https://github.com/ebenezerdanila-lgtm)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1F,40:1E1B4B,75:312E81,100:4F46E5&height=280&section=header&text=Ebenezer%20C.%20Danila&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Analytics%20Developer&descSize=18&descAlignY=64&descColor=C4B5FD)](https://github.com/ebenezerdanila-lgtm)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=Data+Analyst+%7C+Business+Intelligence+%7C+Analytics+Developer;Turning+raw+data+into+real+decisions.;Building+systems+that+serve+real+communities.;Still+learning.+Still+building.+Still+becoming." alt="Typing SVG"/>
 
