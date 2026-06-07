@@ -1,14 +1,14 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0000,30:4A0000,65:8B0000,85:C0392B,100:E74C3C&height=280&section=header&text=Ebenezer%20C.%20Danila&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Analytics%20Developer&descSize=18&descAlignY=64&descColor=FFB3B3)](https://github.com/ebenezerdanila-lgtm)
+[![Header](https://raw.githubusercontent.com/ebenezerdanila-lgtm/ebenezerdanila-lgtm/refs/heads/main/ebenezerdanila-lgtm-profile-banner.svg)](https://github.com/ebenezerdanila-lgtm)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=800&color=FF4444&center=true&vCenter=true&width=650&height=45&lines=Data+Analyst+%7C+Business+Intelligence+%7C+Analytics+Developer;Turning+raw+data+into+real+decisions.;Building+systems+that+serve+real+communities.;Still+learning.+Still+building.+Still+becoming." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=Data+Analyst+%7C+Business+Intelligence+%7C+Analytics+Developer;Turning+raw+data+into+real+decisions.;Building+systems+that+serve+real+communities.;Still+learning.+Still+building.+Still+becoming." alt="Typing SVG"/>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1F,100:4F46E5&height=3" width="100%"/>
 
 ## 🧭 `01` · Who I Am
 
@@ -27,7 +27,7 @@ I work at the intersection of **data, systems, and human decisions** — where r
 
 Currently co-developing **LGU-SDSS** — a geospatial decision support system for LGU planners built on real PSA-CBMS household data. The most meaningful project I've built so far.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1F,100:4F46E5&height=3" width="100%"/>
 
 ---
 
@@ -35,7 +35,7 @@ Currently co-developing **LGU-SDSS** — a geospatial decision support system fo
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=3800&pause=1400&color=FF4444&center=true&vCenter=true&width=780&height=55&lines=Data+without+context+is+just+noise.;I+build+the+bridge+between+raw+information...;...and+the+decisions+that+move+communities+forward." alt="Mission"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=3800&pause=1400&color=A78BFA&center=true&vCenter=true&width=780&height=55&lines=Data+without+context+is+just+noise.;I+build+the+bridge+between+raw+information...;...and+the+decisions+that+move+communities+forward." alt="Mission"/>
 
 </div>
 
@@ -45,7 +45,7 @@ I'm building toward a career as a **Data Analyst** or **Business Analytics Profe
 
 Long-term, I want to work at the intersection of **public sector analytics**, **geospatial intelligence**, and **business decision systems** — building tools that are accessible, rigorous, and built for real impact.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1F,100:4F46E5&height=3" width="100%"/>
 
 ---
 
@@ -151,14 +151,14 @@ Long-term, I want to work at the intersection of **public sector analytics**, **
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1F,100:4F46E5&height=3" width="100%"/>
 
 ---
 
 ## 🗂️ `04` · Featured Projects
 
 ### 🌐 LGU-SDSS — Spatial Decision Support Information System
-![Status](https://img.shields.io/badge/Status-In%20Progress-8B0000?style=flat-square) ![Role](https://img.shields.io/badge/Role-Co--Developer-C0392B?style=flat-square) ![Type](https://img.shields.io/badge/Type-Undergraduate%20Thesis-4A0000?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In%20Progress-0D0D1F?style=flat-square&labelColor=1E1B4B) ![Role](https://img.shields.io/badge/Role-Co--Developer-4F46E5?style=flat-square) ![Type](https://img.shields.io/badge/Type-Undergraduate%20Thesis-312E81?style=flat-square)
 
 A full-stack **geospatial decision support system** for Local Government Unit planners. Integrates PSA-CBMS household-level data to visualize **family vulnerability**, detect **kinship networks** via consanguinity matching, and map **poverty pockets** across barangays using interactive Leaflet maps.
 
@@ -173,7 +173,7 @@ A full-stack **geospatial decision support system** for Local Government Unit pl
 ---
 
 ### 🌍 Global Sustainable Energy & SDG 7 Progress Dashboard
-![Status](https://img.shields.io/badge/Status-Deployed-8B0000?style=flat-square) ![Role](https://img.shields.io/badge/Role-Co--Developer-C0392B?style=flat-square) ![Type](https://img.shields.io/badge/Type-Group%20Academic%20Project-4A0000?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Deployed-4F46E5?style=flat-square) ![Role](https://img.shields.io/badge/Role-Co--Developer-6D28D9?style=flat-square) ![Type](https://img.shields.io/badge/Type-Group%20Academic%20Project-312E81?style=flat-square)
 
 An interactive **data analytics dashboard** tracking global energy transition trends across 152 nations (2000–2020), built in support of the UN Sustainable Development Goal 7 — *Affordable and Clean Energy*. Quantifies the **"Decarbonization Paradox"** and maps persistent electricity access equity gaps.
 
@@ -186,12 +186,12 @@ An interactive **data analytics dashboard** tracking global energy transition tr
 
 **Group Members:** Ebenezer C. Danila · Fara Lorraine Jaboneta · Erden Jhed Teope
 
-[![View Repo](https://img.shields.io/badge/View%20Repository-GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebenezerdanila-lgtm/Global-Sustainable-Energy-SDG-7-Progress-Dashboard) [![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Open%20App-C0392B?style=for-the-badge&logo=streamlit&logoColor=white)](https://life-expectancy-dashboard-lzo8leacaaruw42k5kfbkn.streamlit.app/)
+[![View Repo](https://img.shields.io/badge/View%20Repository-GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/ebenezerdanila-lgtm/Global-Sustainable-Energy-SDG-7-Progress-Dashboard) [![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Open%20App-4F46E5?style=for-the-badge&logo=streamlit&logoColor=white)](https://life-expectancy-dashboard-lzo8leacaaruw42k5kfbkn.streamlit.app/)
 
 ---
 
 ### 📈 Credit Risk Scoring & Robust Regression Analysis
-![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Scikit--learn-C0392B?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Academic%20Project-1E1B4B?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Scikit--learn-4F46E5?style=flat-square)
 
 Applied **multiple and robust regression** to model credit risk scores from financial datasets. Full assumption checking — linearity, normality, homoscedasticity — with residual diagnostics and model evaluation.
 
@@ -200,7 +200,7 @@ Applied **multiple and robust regression** to model credit risk scores from fina
 ---
 
 ### 🔗 Correlation Analysis — Radio Ads vs Sales / Review Hours vs Grades
-![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20SciPy%20·%20Seaborn-C0392B?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Academic%20Project-1E1B4B?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20SciPy%20·%20Seaborn-4F46E5?style=flat-square)
 
 Rigorous **multi-method correlation analysis** using Pearson, Spearman, and Kendall's Tau-b on real-world datasets. Full normality and linearity checks with significance interpretation.
 
@@ -209,7 +209,7 @@ Rigorous **multi-method correlation analysis** using Pearson, Spearman, and Kend
 ---
 
 ### 🧹 Data Cleaning Projects
-![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Pandas-C0392B?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Academic%20Project-1E1B4B?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Pandas-4F46E5?style=flat-square)
 
 Resolved complex data quality issues — **missing values**, **negative entries**, **invalid date ranges**, **inconsistent payment statuses** — producing clean, audit-ready outputs.
 
@@ -218,13 +218,13 @@ Resolved complex data quality issues — **missing values**, **negative entries*
 ---
 
 ### 📊 Descriptive Analytics Series
-![Type](https://img.shields.io/badge/Type-Academic%20Project-8B0000?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Pandas%20·%20researchpy-C0392B?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Academic%20Project-1E1B4B?style=flat-square) ![Tools](https://img.shields.io/badge/Tools-Python%20·%20Pandas%20·%20researchpy-4F46E5?style=flat-square)
 
 EDA across sleep patterns, job satisfaction, and employee performance datasets. Normality checks, grouped descriptives, frequency distributions — strict **EDA-first philosophy**.
 
 `EDA` · `Grouped Analysis` · `Statistical Reporting`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1F,100:4F46E5&height=3" width="100%"/>
 
 ---
 
@@ -232,12 +232,12 @@ EDA across sleep patterns, job satisfaction, and employee performance datasets. 
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ebenezerdanila-lgtm&show_icons=true&theme=transparent&title_color=FF4444&text_color=FFAAAA&icon_color=C0392B&border_color=8B0000&bg_color=0D0000&hide_border=false&rank_icon=github" width="48%"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ebenezerdanila-lgtm&layout=compact&theme=transparent&title_color=FF4444&text_color=FFAAAA&border_color=8B0000&bg_color=0D0000" width="38%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ebenezerdanila-lgtm&show_icons=true&theme=transparent&title_color=A78BFA&text_color=C4B5FD&icon_color=4F46E5&border_color=312E81&bg_color=0D0D1F&hide_border=false&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ebenezerdanila-lgtm&layout=compact&theme=transparent&title_color=A78BFA&text_color=C4B5FD&border_color=312E81&bg_color=0D0D1F" width="38%"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ebenezerdanila-lgtm&theme=transparent&background=0D0000&stroke=8B0000&ring=C0392B&fire=FF4444&currStreakLabel=FF4444&sideNums=FFCCCC&currStreakNum=FFFFFF&dates=FFAAAA&border=8B0000" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ebenezerdanila-lgtm&theme=transparent&background=0D0D1F&stroke=312E81&ring=4F46E5&fire=A78BFA&currStreakLabel=A78BFA&sideNums=C4B5FD&currStreakNum=FFFFFF&dates=8B83D4&border=312E81" width="55%"/>
 
 <br><br>
 
@@ -251,7 +251,7 @@ EDA across sleep patterns, job satisfaction, and employee performance datasets. 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1F,100:4F46E5&height=3" width="100%"/>
 
 ---
 
@@ -292,7 +292,7 @@ Took ownership of system components, contributed proactively, and pushed deliver
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1F,100:4F46E5&height=3" width="100%"/>
 
 ---
 
@@ -309,7 +309,7 @@ I believe the best analysts are curious people first.
 | 🐟 **Aquarium Keeping** | Patience, system thinking, and the joy of building something that lives |
 | 🤝 **Community** | Collaboration, growth, and paying it forward |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:C0392B&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1F,100:4F46E5&height=3" width="100%"/>
 
 ---
 
@@ -317,10 +317,10 @@ I believe the best analysts are curious people first.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ebenezerdanila--lgtm-0D0000?style=for-the-badge&logo=github&logoColor=FF6B6B&labelColor=4A0000)](https://github.com/ebenezerdanila-lgtm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ebenezer%20Danila-0D0000?style=for-the-badge&logo=linkedin&logoColor=FFAAAA&labelColor=4A0000)](https://www.linkedin.com/in/ebenezer-danila/)
-[![WVSU Mail](https://img.shields.io/badge/WVSU%20Mail-ebenezer.danila-0D0000?style=for-the-badge&logo=gmail&logoColor=FF6B6B&labelColor=4A0000)](mailto:ebenezer.danila@wvsu.edu.ph)
-[![Gmail](https://img.shields.io/badge/Gmail-danila.ebenezer-0D0000?style=for-the-badge&logo=gmail&logoColor=FFAAAA&labelColor=4A0000)](mailto:danila.ebenezer@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ebenezerdanila--lgtm-0D0D1F?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=1E1B4B)](https://github.com/ebenezerdanila-lgtm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ebenezer%20Danila-0D0D1F?style=for-the-badge&logo=linkedin&logoColor=C4B5FD&labelColor=1E1B4B)](https://www.linkedin.com/in/ebenezer-danila/)
+[![WVSU Mail](https://img.shields.io/badge/WVSU%20Mail-ebenezer.danila-0D0D1F?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=1E1B4B)](mailto:ebenezer.danila@wvsu.edu.ph)
+[![Gmail](https://img.shields.io/badge/Gmail-danila.ebenezer-0D0D1F?style=for-the-badge&logo=gmail&logoColor=C4B5FD&labelColor=1E1B4B)](mailto:danila.ebenezer@gmail.com)
 
 </div>
 
@@ -328,7 +328,7 @@ I believe the best analysts are curious people first.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1000&color=FF4444&center=true&vCenter=true&width=700&height=40&lines=Still+learning.+%E2%80%A2+Still+building.+%E2%80%A2+Still+becoming.;Every+dataset+is+a+story+waiting+to+be+told.;Open+to+opportunities%2C+collaborations%2C+and+conversations." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Still+learning.+%E2%80%A2+Still+building.+%E2%80%A2+Still+becoming.;Every+dataset+is+a+story+waiting+to+be+told.;Open+to+opportunities%2C+collaborations%2C+and+conversations." alt="Typing SVG"/>
 
 <br>
 
@@ -337,6 +337,6 @@ I believe the best analysts are curious people first.
 
 <br>
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C0392B,30:8B0000,70:4A0000,100:0D0000&height=130&section=footer)](https://github.com/ebenezerdanila-lgtm)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,30:312E81,70:1E1B4B,100:0D0D1F&height=130&section=footer)](https://github.com/ebenezerdanila-lgtm)
 
 </div>
